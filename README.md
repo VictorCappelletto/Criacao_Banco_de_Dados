@@ -1,4 +1,4 @@
-#<h1 align="center"> Criacao_Banco_de_Dados </h1>
+#<h1 align="center"> Criação_Banco_de_Dados </h1>
 ![Logo_BD](https://user-images.githubusercontent.com/104593037/168647107-ca47fb4b-e0f5-4667-8eec-4e13c6537db0.png)
 
 <p align="center">
@@ -16,7 +16,6 @@ Projeto para criação do Banco de Dados, desde a etapa de elaboração da regra
 * [Comandos DDL SEQUENCE e DROP](#comandos-dll-sequence-e-drop)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
-* [Licença](#licença)
 * [Conclusão](#conclusão)
 
 <h4 align="center"> 
@@ -95,18 +94,18 @@ O modelo fisico foi elaborado com o sofware #OracleDeveloper utilizando linguage
   
 </p>
 
-## :page_facing_up: Comandos DDL SEQUENCE e DROP
+## :page_facing_up: Comandos DDL DROP e SEQUENCE
 
-:closed_book: DROP :closed_book:
+:closed_book: DROP 
 
 O comando DROP tem como função excluir do banco de dados diversas funções, ou seja, para remover uma tabela em um banco de dados é necessario utilizar esse comando. Segue abaixo o modelo de utilização do comando DROP para remoção de uma tabela gerada no projeto:
 
-DROP TABLE T_SGV_CATEGORIA CASCADE CONSTRAINTS;
+`DROP TABLE T_SGV_CATEGORIA CASCADE CONSTRAINTS;`
 
 é adicionado o complemento CASCADE CONSTRAINTS para excluir todas as constraints que estejam vinculadas a tabela removida
 
 
-:notebook: SEQUENCE :notebook:
+:notebook: SEQUENCE 
 
 Uma sequência é um item de banco de dados, cuja função é gerar uma série de números inteiros. A sequência é normalmente utilizada para preencher uma coluna chave primária numérica, com valores numéricos inteiros.Com o uso da sequência,os números são gerados de forma automática pelo SQGB  (Sistema  Gerenciador  de  Banco  de  Dados).
 
@@ -138,8 +137,6 @@ INCREMENT BY  num_incremento
 
 ✔️EXEMPLO DE CODIGO SQL PARA CRIAÇÃO E REMOÇÃO DE UMA SEQUENCIA NO PROJETO:
 
-📖 CRIAÇÃO SEQUENCE TABELA T_SGV_CATEGORIA 📖
-
 ```CREATE SEQUENCE SQ_SGV_CATEGORIA
 INCREMENT BY 1
 START WITH 1
@@ -155,17 +152,29 @@ FROM   USER_SEQUENCES
 WHERE  SEQUENCE_NAME='SQ_SGV_CATEGORIA
 ```
 
-
-📖 REMOÇÃO DE SEQUENCE TABELA T_SGV_CATEGORIA 📖
+EXEMPLO DE CODIGO SQL PARA REMOÇÃO DE SEQUENCE TABELA T_SGV_CATEGORIA 
 
 `DROP SEQUENCE SQ_SGV_CATEGORIA`
 
-🔖COMANDO PARA ADICIONAR VALOR UTILIZANDO .NEXTVAL 🔖
+EXEMPLO DE CODIGO SQL PARA ADICIONAR VALOR UTILIZANDO .NEXTVAL 🔖
 
 ```INSERT INTO T_SGV_CATEGORIA (cd_categ, nm_categ, ds_categ, dt_term_categ, dt_inicio_categ, cd_sta_categ, cd_prod)
         VALUES(SQ_SGV_CATEGORIA.nextval, /*VALORES DA CATEGORIA*/)
 ```
-        
-        
-        
 
+## :computer: Tecnologias utilizadas
+        
+ - `SQL`
+ - `Oracle Developer`
+ - `Oracle DataModeler`
+
+## :space_invader: Pessoas Desenvolvedoras do Projeto
+
+ | [<img src="https://avatars.githubusercontent.com/u/104593037?s=400&u=7d1315697c09704b873c4e2048aa5a276ad4e68a&v=4" width=115><br><sub>Victor Cappelletto</sub>](https://github.com/VictorCappelletto) | 
+ | :---: | 
+
+## :pushpin: Conclusão
+
+Com essas etapas é possivel visualizar os processos para a elaboração do modelo lógico de um banco de dados que é gerado através da regra de negocio junto com a codificação que gera o modelo fisico do banco de dados. Quando o modelo fisico é gerado, torna possivel a locação dos dados, ou seja, realizar o input dos dados.
+
+Espero ter contribuido!! =D
