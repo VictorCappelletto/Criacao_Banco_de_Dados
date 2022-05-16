@@ -158,7 +158,8 @@ EXEMPLO DE CODIGO SQL PARA REMOÇÃO DE SEQUENCE TABELA T_SGV_CATEGORIA
 
 EXEMPLO DE CODIGO SQL PARA ADICIONAR VALOR UTILIZANDO .NEXTVAL 🔖
 
-```INSERT INTO T_SGV_CATEGORIA (cd_categ, nm_categ, ds_categ, dt_term_categ, dt_inicio_categ, cd_sta_categ, cd_prod)
+```
+INSERT INTO T_SGV_CATEGORIA (cd_categ, nm_categ, ds_categ, dt_term_categ, dt_inicio_categ, cd_sta_categ, cd_prod)
         VALUES(SQ_SGV_CATEGORIA.nextval, /*VALORES DA CATEGORIA*/)
 ```
 
