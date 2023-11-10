@@ -1,4 +1,4 @@
-User-ID;Location;Age
+Usuario-ID;Location;Age
 1;nyc, new york, usa;NULL
 2;stockton, california, usa;18
 3;moscow, yukon territory, russia;NULL
@@ -41,7 +41,7 @@ User-ID;Location;Age
 40;tonawanda, new york, usa;32
 41;santee, california, usa;14
 42;appleton, wisconsin, usa;17
-43;méxico, méxico city, distrito federal;NULL
+43;mÃ©xico, mÃ©xico city, distrito federal;NULL
 44;black mountain, north carolina, usa;51
 45;berlin, n/a, germany;NULL
 46;heidelberg, baden-wuerttemberg, germany;31
@@ -169,7 +169,7 @@ User-ID;Location;Age
 168;sunnyvale, california, usa;44
 169;arlington, virginia, usa;NULL
 170;roswell, georgia, usa;NULL
-171;itaí, são paulo, brazil;29
+171;itaÃ­, sÃ£o paulo, brazil;29
 172;rio de janeiro, rio de janeiro, brazil;66
 173;ames, iowa, usa;NULL
 174;kandy, central, sri lanka;31
@@ -180,7 +180,7 @@ User-ID;Location;Age
 179;wazirabad, punjab, pakistan;NULL
 180;copenhagen n, n/a, denmark;NULL
 181;karachi, sindh, pakistan;NULL
-182;buitenpost, fryslân, netherlands;36
+182;buitenpost, fryslÃ¢n, netherlands;36
 183;porto, porto, portugal;27
 184;seattle, washington, usa;NULL
 185;baton rouge, louisiana, usa;17
@@ -249,7 +249,7 @@ User-ID;Location;Age
 248;chilliwack, british columbia, canada;15
 249;amsterdam, noord-holland, netherlands;29
 250;minneapolis, minnesota, usa;25
-251;valladolid, castilla y león, spain;54
+251;valladolid, castilla y leÃ³n, spain;54
 252;13001 safat, kuwait, kuwait;65
 253;milano, lombardia, italy;28
 254;minneapolis, minnesota, usa;24
@@ -266,7 +266,7 @@ User-ID;Location;Age
 265;tianjin, n/a, china;24
 266;kalgary, alberta, canada;NULL
 267;cleveland, ohio, usa;29
-268;"århus, \n/a\"", denmark""";NULL
+268;"Ã¥rhus, \n/a\"", denmark""";NULL
 269;aarhus, jylland, denmark;NULL
 270;tawern, rheinland-pfalz, germany;NULL
 271;karachi, pakistan, pakistan;22
@@ -306,24 +306,24 @@ User-ID;Location;Age
 305;poway, california, usa;NULL
 306;boston, massachusetts, usa;NULL
 307;koski, uusimaa, finland;27
-308;getxo, yukon territory, españa;53
+308;getxo, yukon territory, espaÃ±a;53
 309;london, england, united kingdom;30
 310;barcelona, n/a, spain;26
 311;ridderkerk, n/a, netherlands;34
 312;lk, jlk,;NULL
 313;rutherford, new jersey, usa;NULL
-314;århus, n/a, denmark;28
+314;Ã¥rhus, n/a, denmark;28
 315;stockholm, stockholm, sweden;NULL
 316;kyle, saskatchewan, canada;23
 317;tyner, north carolina, usa;41
 318;berlin, n/a,;NULL
-319;1407 københavn k, n/a, denmark;32
+319;1407 kÃ¸benhavn k, n/a, denmark;32
 320;minneapolis, minnesota, usa;37
 321;liaquat pur, punjab, pakistan;24
 322;bergen, yukon territory, norway;NULL
 323;seattle, washington, usa;23
 324;valencia, bukidnon, philippines;NULL
-325;zürich, mittelland, switzerland;NULL
+325;zÃ¼rich, mittelland, switzerland;NULL
 326;parkville, missouri, usa;NULL
 327;dallas, texas, usa;NULL
 328;moscow, idaho, usa;33
@@ -332,10 +332,10 @@ User-ID;Location;Age
 331;buenos aires, buenos aires, argentina;60
 332;lake oswego, oregon, usa;59
 333;barcelona, alberta, spain;23
-334;jyväskylä, n/a, finland;27
+334;jyvÃ¤skylÃ¤, n/a, finland;27
 335;modena, emilia romagna, italy;27
 336;bilbao, vizcaya, spain;27
-337;málaga, n/a, spain;17
+337;mÃ¡laga, n/a, spain;17
 338;minneapolis, minnesota, usa;NULL
 339;tampere, pirkanmaa, finland;20
 340;cebu, cebu, philippines;15
@@ -347,7 +347,7 @@ User-ID;Location;Age
 346;montreal, quebec, canada;29
 347;montreal, quebec, canada;34
 348;berkeley, california, usa;NULL
-349;sønderborg, n/a, denmark;NULL
+349;sÃ¸nderborg, n/a, denmark;NULL
 350;siena, toscana, italy;NULL
 351;ankara, turkey, turkey;NULL
 352;windsor, connecticut, usa;28
@@ -359,7 +359,7 @@ User-ID;Location;Age
 358;burbank, california, usa;NULL
 359;springville, california, usa;NULL
 360;barcelona, barcelona, spain;33
-361;premià de dalt, barcelona, spain;25
+361;premiÃ  de dalt, barcelona, spain;25
 362;thunder bay, ontario, canada;63
 363;uhingen, baden-wuerttemberg, germany;NULL
 364;aveiro, beira litoral, portugal;NULL
@@ -551,7 +551,7 @@ User-ID;Location;Age
 550;karachi, sindh, pakistan;NULL
 551;kolkata, victoria, india;19
 552;united states, california, usa;NULL
-553;nykøbing sjælland, n/a, denmark;16
+553;nykÃ¸bing sjÃ¦lland, n/a, denmark;16
 554;angra heroismo, yukon territory, portugal;NULL
 555;teramo, abruzzo, italy;36
 556;port charlotte, florida, usa;31
@@ -578,8 +578,8 @@ User-ID;Location;Age
 577;andimeshk, khozestan, iran;NULL
 578;parksville, british columbia, canada;NULL
 579;tiruchirapalli, n/a, india;29
-580;logroño, la rioja, spain;22
-581;zaragoza, aragón, spain;45
+580;logroÃ±o, la rioja, spain;22
+581;zaragoza, aragÃ³n, spain;45
 582;adelaide, south australia, australia;56
 583;tashkent, uzbekistan, uzbekistan;19
 584;doha, doha, qatar;23
@@ -588,7 +588,7 @@ User-ID;Location;Age
 587;bologna, bologna, italy;NULL
 588;roseville, minnesota, usa;60
 589;gassino torinese, piemonte, italy;NULL
-590;münster, n/a, germany;NULL
+590;mÃ¼nster, n/a, germany;NULL
 591;miami beach, florida, usa;42
 592;boston, massachusetts, usa;NULL
 593;port hawkesbury, nova scotia, canada;28
@@ -631,8 +631,8 @@ User-ID;Location;Age
 630;paris, n/a, france;33
 631;fort collins, colorado, usa;NULL
 632;rochester, minnesota, usa;15
-633;köln, nordrhein-westfalen, germany;NULL
-634;düsseldorf, nordrhein-westfalen, germany;50
+633;kÃ¶ln, nordrhein-westfalen, germany;NULL
+634;dÃ¼sseldorf, nordrhein-westfalen, germany;50
 635;toronto, ontario, canada;24
 636;durham, north carolina, usa;NULL
 637;singapore, singapore, singapore;20
@@ -659,11 +659,11 @@ User-ID;Location;Age
 658;jasper, georgia, usa;61
 659;simcoe, ontario, canada;NULL
 660;ny, new york, usa;NULL
-661;zweibrücken, rheinland-pfalz, germany;22
+661;zweibrÃ¼cken, rheinland-pfalz, germany;22
 662;high prairie, alberta, canada;21
 663;vigo, galicia, spain;49
 664;alicante, alicante, spain;26
-665;linköping, östergötland, sweden;NULL
+665;linkÃ¶ping, Ã¶stergÃ¶tland, sweden;NULL
 666;gurgaon, n/a, india;NULL
 667;gurgaon, haryana, india;NULL
 668;nasik, maharashtra, india;27
@@ -708,7 +708,7 @@ User-ID;Location;Age
 707;san antonio, texas, usa;NULL
 708;duluth, minnesota, usa;NULL
 709;roanoke, virginia, usa;14
-710;piracicaba, são paulo, brazil;42
+710;piracicaba, sÃ£o paulo, brazil;42
 711;oxford, england, united kingdom;27
 712;pratteln, baselland, switzerland;29
 713;abingdon, n/a, united kingdom;49
@@ -846,7 +846,7 @@ User-ID;Location;Age
 845;bari, puglia, italy;25
 846;waco, texas, usa;55
 847;pamplona, navarra, spain;23
-848;värmdö, n/a, sweden;NULL
+848;vÃ¤rmdÃ¶, n/a, sweden;NULL
 849;seattle, washington, usa;NULL
 850;bremen, bremen, germany;22
 851;petaling jaya, selangor, malaysia;NULL
@@ -896,7 +896,7 @@ User-ID;Location;Age
 895;geelong, victoria, australia;40
 896;-, wales, united kingdom;27
 897;coffs harbour, new south wales, australia;14
-898;gdañsk, n/a, poland;NULL
+898;gdaÃ±sk, n/a, poland;NULL
 899;bielefeld, nordrhein-westfalen, germany;23
 900;scranton, pennsylvania, usa;25
 901;worcester, worcestershire, united kingdom;21
@@ -919,7 +919,7 @@ User-ID;Location;Age
 918;cartwright, newfoundland and labrador, canada;52
 919;madrid, madrid, spain;65
 920;islip, new york, usa;28
-921;osnabrück, niedersachsen, germany;NULL
+921;osnabrÃ¼ck, niedersachsen, germany;NULL
 922;salt spring island, british columbia, canada;20
 923;miami, florida, usa;21
 924;grenoble, isere, france;29
@@ -978,7 +978,7 @@ User-ID;Location;Age
 977;benton, kansas, usa;NULL
 978;alpharetta, georgia, usa;33
 979;northampton, east midlands, united kingdom;36
-980;gijón, asturias, spain;23
+980;gijÃ³n, asturias, spain;23
 981;new york, new york, usa;NULL
 982;sheffield, alabama, usa;41
 983;ashland, oregon, vietnam;NULL
@@ -996,7 +996,7 @@ User-ID;Location;Age
 995;christchurch, canterbury, new zealand;34
 996;bellefonte, pennsylvania, usa;NULL
 997;meeteetse, wyoming, usa;NULL
-998;champs sur marne, île de france, france;NULL
+998;champs sur marne, Ã®le de france, france;NULL
 999;newark, delaware, usa;21
 1000;teramo, abruzzo, italy;34
 1001;campbelltown, new south wales, australia;19
@@ -1015,7 +1015,7 @@ User-ID;Location;Age
 1014;st. catharines, ontario, canada;NULL
 1015;dartmouth, nova scotia, canada;18
 1016;clementon, new jersey, usa;NULL
-1017;lüneburg, niedersachsen, germany;35
+1017;lÃ¼neburg, niedersachsen, germany;35
 1018;san mateo, california, usa;NULL
 1019;san diego, california, usa;NULL
 1020;springfield, missouri, usa;NULL
@@ -1032,7 +1032,7 @@ User-ID;Location;Age
 1031;sparks, maryland, usa;52
 1032;lockhart, texas, usa;NULL
 1033;new bury, connecticut, usa;NULL
-1034;são paulo, são paulo, brazil;18
+1034;sÃ£o paulo, sÃ£o paulo, brazil;18
 1035;sycamore, illinois, usa;26
 1036;whitman, massachusetts, usa;25
 1037;rising star, texas, usa;18
@@ -1053,7 +1053,7 @@ User-ID;Location;Age
 1052;tarcento, friuli venezia giulia, italy;31
 1053;e. lansing, michigan, usa;20
 1054;burnsville, minnesota, usa;37
-1055;winterthur, zürich, switzerland;30
+1055;winterthur, zÃ¼rich, switzerland;30
 1056;santa cruz de tenerife, canarias, spain;35
 1057;norwich, norfolk, united kingdom;19
 1058;paris, n/a, france;23
@@ -1070,7 +1070,7 @@ User-ID;Location;Age
 1069;troutdale, oregon, usa;NULL
 1070;plantation, florida, usa;NULL
 1071;braga, n/a, portugal;22
-1072;nîmes, languedoc-roussillon, france;47
+1072;nÃ®mes, languedoc-roussillon, france;47
 1073;terni, italy, italy;31
 1074;eresing, bayern, germany;NULL
 1075;hurst, texas, usa;49
@@ -1079,7 +1079,7 @@ User-ID;Location;Age
 1078;granada, granada, spain;28
 1079;eugene, oregon, usa;NULL
 1080;caballo, new mexico, usa;35
-1081;san fernando, cádiz, spain;31
+1081;san fernando, cÃ¡diz, spain;31
 1082;rochester, washington, usa;36
 1083;newport news, virginia, usa;NULL
 1084;mt vernon, illinois, usa;NULL
@@ -1137,7 +1137,7 @@ User-ID;Location;Age
 1136;santa cruz de tenerife, canarias, spain;21
 1137;zaragoza, schleswig-holstein, spain;25
 1138;ann arbor, michigan, usa;NULL
-1139;valladolid, españa, spain;33
+1139;valladolid, espaÃ±a, spain;33
 1140;bridgewater, new jersey, usa;19
 1141;santiago, n/a, chile;26
 1142;vienna, vienna, austria;25
@@ -1187,7 +1187,7 @@ User-ID;Location;Age
 1186;melbourne, victoria, australia;24
 1187;newcastle, new south wales, australia;23
 1188;montclair, new jersey, usa;29
-1189;nürnberg, bayern, germany;39
+1189;nÃ¼rnberg, bayern, germany;39
 1190;barcelona, barcelona, spain;24
 1191;ogden, utah, usa;34
 1192;klang, selangor, malaysia;27
@@ -1204,7 +1204,7 @@ User-ID;Location;Age
 1203;kenitra, kenitra, morocco;21
 1204;martinez, california, usa;NULL
 1205;dorval, quebec, canada;32
-1206;stuttgart, baden-württemberg, germany;NULL
+1206;stuttgart, baden-wÃ¼rttemberg, germany;NULL
 1207;chesama, n/a, afghanistan;NULL
 1208;danbury, connecticut, usa;NULL
 1209;chicago, illinois, usa;33
@@ -1226,7 +1226,7 @@ User-ID;Location;Age
 1225;lombard, illinois, usa;22
 1226;glendale, california, usa;14
 1227;singapore, n/a, singapore;16
-1228;münchen, bayern, germany;NULL
+1228;mÃ¼nchen, bayern, germany;NULL
 1229;visalia, california, usa;NULL
 1230;paris, n/a, france;34
 1231;christchurch, n/a, new zealand;13
@@ -1251,7 +1251,7 @@ User-ID;Location;Age
 1250;arlington, virginia, usa;44
 1251;elgin, south carolina, usa;NULL
 1252;la, california, usa;NULL
-1253;bogotá, cundinamarca, colombia;22
+1253;bogotÃ¡, cundinamarca, colombia;22
 1254;16605 bennington ct, indiana, usa;26
 1255;barcelona, barcelona, spain;23
 1256;ottawa, ontario, canada;NULL
@@ -1288,7 +1288,7 @@ User-ID;Location;Age
 1287;pontiac, illinois, usa;32
 1288;colorado springs, colorado, usa;35
 1289;san jose, california, usa;103
-1290;angra do heroísmo, n/a, portugal;26
+1290;angra do heroÃ­smo, n/a, portugal;26
 1291;valencia, n/a, spain;34
 1292;ticonderoga, new york, usa;NULL
 1293;haddon twp, new jersey, usa;NULL
@@ -1316,7 +1316,7 @@ User-ID;Location;Age
 1315;guanzate, lombardia, italy;NULL
 1316;novara, piemonte, italy;18
 1317;torrance, california, usa;63
-1318;león, castilla-león,;33
+1318;leÃ³n, castilla-leÃ³n,;33
 1319;pisa, toscana, italy;NULL
 1320;barry, vale of glamorgan, united kingdom;36
 1321;bucharest, romania, romania;24
@@ -1350,11 +1350,11 @@ User-ID;Location;Age
 1349;omaha, nebraska, usa;NULL
 1350;red deer, alberta, canada;NULL
 1351;monterrey, new mexico, mexico;NULL
-1352;città sant`angelo, abruzzo, italy;35
+1352;cittÃ  sant`angelo, abruzzo, italy;35
 1353;chicago, illinois, usa;NULL
 1354;canberra, new south wales, australia;39
 1355;roseville, minnesota, usa;71
-1356;barcelona, españa, spain;16
+1356;barcelona, espaÃ±a, spain;16
 1357;toowoomba, queensland, australia;56
 1358;vienna, ,;NULL
 1359;houston, texas, usa;14
@@ -1391,7 +1391,7 @@ User-ID;Location;Age
 1390;greymouth, greymouth, new zealand;36
 1391;camarillo, california, usa;NULL
 1392;liverpool, england, united kingdom;42
-1393;barcelona, españa, spain;35
+1393;barcelona, espaÃ±a, spain;35
 1394;la plata, n/a, argentina;28
 1395;santa monica, california, usa;NULL
 1396;santa barbara, california, usa;35
@@ -1449,7 +1449,7 @@ User-ID;Location;Age
 1448;la mesa, california, usa;61
 1449;sannicandro di bari, puglia, italy;NULL
 1450;stockholm, n/a, sweden;24
-1451;a coruña, a coruña, spain;22
+1451;a coruÃ±a, a coruÃ±a, spain;22
 1452;amsterdam, nh, netherlands;NULL
 1453;urbana, ohio, usa;NULL
 1454;shenzhen, guangdong province, china;21
@@ -1539,7 +1539,7 @@ User-ID;Location;Age
 1538;caracas, caracas,;29
 1539;calgary, alberta, canada;NULL
 1540;duluth, georgia, usa;NULL
-1541;köln, nordrhein-westfalen, germany;25
+1541;kÃ¶ln, nordrhein-westfalen, germany;25
 1542;berlin, berlin, germany;NULL
 1543;san jose, san jose, costa rica;NULL
 1544;london, england, united kingdom;31
@@ -1585,7 +1585,7 @@ User-ID;Location;Age
 1584;singapore, singapore, singapore;NULL
 1585;albuquerque, new mexico, usa;29
 1586;north muskegon, michigan, united kingdom;14
-1587;ibbenbüren, nordrhein-westfalen, germany;19
+1587;ibbenbÃ¼ren, nordrhein-westfalen, germany;19
 1588;lewisham, london, united kingdom;NULL
 1589;clio, michigan,;50
 1590;charleston, south carolina, usa;15
@@ -1643,7 +1643,7 @@ User-ID;Location;Age
 1642;karachi, sindh, pakistan;25
 1643;perth, western australia, australia;24
 1644;karachi, kentucky, pakistan;22
-1645;göttingen, niedersachsen, germany;22
+1645;gÃ¶ttingen, niedersachsen, germany;22
 1646;dieburg, hessen, germany;19
 1647;guangzhou, guangdong, china;NULL
 1648;mont-saint-aignan, normandie, france;67
@@ -1676,7 +1676,7 @@ User-ID;Location;Age
 1675;riverside, california, usa;NULL
 1676;ottawa, ontario, canada;NULL
 1677;adelaide, south australia, australia;14
-1678;vilanova i la geltrú, barcelona, spain;21
+1678;vilanova i la geltrÃº, barcelona, spain;21
 1679;milano, lombardia, italy;NULL
 1680;roma, lazio, italy;35
 1681;osogbo, osun state, nigeria;47
@@ -1687,7 +1687,7 @@ User-ID;Location;Age
 1686;subang jaya, selangor d.e., malaysia;1
 1687;champaign, illinois, usa;47
 1688;chelmsford, england, united kingdom;53
-1689;zürich, zürich, switzerland;NULL
+1689;zÃ¼rich, zÃ¼rich, switzerland;NULL
 1690;neu st. johann, n/a, switzerland;NULL
 1691;temple, texas, usa;50
 1692;toronto, ontario, canada;NULL
@@ -1752,7 +1752,7 @@ User-ID;Location;Age
 1751;miami, florida, usa;NULL
 1752;temanggung, jawa tengah, indonesia;22
 1753;melbourne, victoria, australia;NULL
-1754;kloten, zürich, switzerland;29
+1754;kloten, zÃ¼rich, switzerland;29
 1755;bonn, nrw, germany;24
 1756;littlehampton, england, united kingdom;21
 1757;srabaya, n/a, indonesia;16
@@ -1785,8 +1785,8 @@ User-ID;Location;Age
 1784;swietochlowice, silesia, poland;23
 1785;toulouse, haute-garonne, france;26
 1786;kuala lumpur, kuala lumpur, malaysia;21
-1787;nürnberg, bayern, germany;NULL
-1788;são paulo, são paulo, brazil;39
+1787;nÃ¼rnberg, bayern, germany;NULL
+1788;sÃ£o paulo, sÃ£o paulo, brazil;39
 1789;sao paulo, sao paulo, brazil;36
 1790;chicago, illinois, usa;25
 1791;harrisburg, pennsylvania, usa;NULL
@@ -1809,7 +1809,7 @@ User-ID;Location;Age
 1808;arad, arad, romania;23
 1809;bucharest, n/a, romania;33
 1810;alicante, alicante, spain;24
-1811;palencia, castilla y león, spain;56
+1811;palencia, castilla y leÃ³n, spain;56
 1812;provo, utah, usa;24
 1813;ottawa, ontario, canada;NULL
 1814;cologne, nordrhein-westfalen, germany;NULL
@@ -1891,8 +1891,8 @@ User-ID;Location;Age
 1890;london, england, united kingdom;24
 1891;canyon city, oregon, usa;NULL
 1892;fort wayne, indiana, usa;47
-1893;sant cugat del vallès, catalunya, spain;31
-1894;lillestrøm, akershus, norway;53
+1893;sant cugat del vallÃ¨s, catalunya, spain;31
+1894;lillestrÃ¸m, akershus, norway;53
 1895;dublin, republic of ireland, ireland;NULL
 1896;columbus, ohio, usa;NULL
 1897;houston, texas, usa;58
@@ -1949,7 +1949,7 @@ User-ID;Location;Age
 1948;acworth, georgia, usa;34
 1949;wilmington, north carolina, usa;NULL
 1950;inverness, scotland, united kingdom;29
-1951;karlsruhe, baden-württemberg, germany;28
+1951;karlsruhe, baden-wÃ¼rttemberg, germany;28
 1952;castelldefels, barcelona, spain;23
 1953;glasgow, scotland, united kingdom;22
 1954;brighton, england, united kingdom;36
@@ -1957,7 +1957,7 @@ User-ID;Location;Age
 1956;rotterdam, n/a, netherlands;NULL
 1957;fenton, michigan, usa;41
 1958;melrose park, illinois, usa;23
-1959;santiago de compostela, a coruña, spain;20
+1959;santiago de compostela, a coruÃ±a, spain;20
 1960;grosseto, toscana, italy;57
 1961;grand rapids, michigan, usa;17
 1962;stockholm, stockholm, sweden;NULL
@@ -1965,7 +1965,7 @@ User-ID;Location;Age
 1964;cambridge, massachusetts, usa;NULL
 1965;augsburg, bayern, germany;31
 1966;burgos, burgos, spain;NULL
-1967;alingsås, n/a, sweden;19
+1967;alingsÃ¥s, n/a, sweden;19
 1968;dayton, ohio, usa;31
 1969;paris, paris, france;25
 1970;montebelluna, italy, italy;47
@@ -1977,23 +1977,23 @@ User-ID;Location;Age
 1976;igualada, ,;41
 1977;utrecht, utrecht, netherlands;24
 1978;saint louis, missouri, usa;NULL
-1979;cuiabá, mato grosso, brazil;28
+1979;cuiabÃ¡, mato grosso, brazil;28
 1980;bucharest, n/a, romania;NULL
 1981;ipoh, perak, malaysia;NULL
-1982;nürnberg, bayern, germany;NULL
-1983;noreña, asturias, spain;26
+1982;nÃ¼rnberg, bayern, germany;NULL
+1983;noreÃ±a, asturias, spain;26
 1984;zug, n/a, switzerland;NULL
 1985;altdorf, bayern, germany;39
 1986;leatherhead, england, united kingdom;19
 1987;santa coloma de gramenet, catalunya, spain;13
 1988;forest lake, minnesota, usa;NULL
 1989;phoenix, arizona, usa;27
-1990;niterói, rio de janeiro, brazil;32
+1990;niterÃ³i, rio de janeiro, brazil;32
 1991;toledo, ohio, usa;31
 1992;genova, liguria, italy;NULL
 1993;sao paulo, sao paulo, brazil;37
 1994;piqua, ohio, usa;NULL
-1995;rascafría, madrid, spain;59
+1995;rascafrÃ­a, madrid, spain;59
 1996;sydney, new south wales, australia;34
 1997;altoona, pennsylvania, usa;16
 1998;"tel-aviv, \n/a\""), israel""";NULL
@@ -2004,7 +2004,7 @@ User-ID;Location;Age
 2003;cambridge, england, united kingdom;21
 2004;loma hermosa, buenos aires, argentina;NULL
 2005;turin, piemonte, italy;30
-2006;nürnberg, bayern, germany;NULL
+2006;nÃ¼rnberg, bayern, germany;NULL
 2007;vienna, vienna, austria;53
 2008;burnaby, british columbia, canada;NULL
 2009;wuppertal, nordrhein-westfalen, germany;31
@@ -2062,14 +2062,14 @@ User-ID;Location;Age
 2061;auckland central, auckland, new zealand;NULL
 2062;brescia, lombardia, italy;23
 2063;raleigh, north carolina, usa;NULL
-2064;hospitalet de llob-barcelona, cataluña, spain;33
+2064;hospitalet de llob-barcelona, cataluÃ±a, spain;33
 2065;n/a, n/a, singapore;16
 2066;fieberbrunn, tirol, austria;31
 2067;adwa, tigray, ethiopia;NULL
 2068;healesville, victoria, australia;43
 2069;metuchen, new jersey, usa;48
 2070;pembroke pines, florida, usa;22
-2071;madrid, españa, spain;27
+2071;madrid, espaÃ±a, spain;27
 2072;sevilla, sevilla, spain;26
 2073;roma, lazio, italy;NULL
 2074;madrid, madrid, spain;35
@@ -2082,7 +2082,7 @@ User-ID;Location;Age
 2081;flims dorf, graubuenden, switzerland;62
 2082;akron, ohio, usa;14
 2083;tuebingen, baden-wuerttemberg, germany;NULL
-2084;logroño, la rioja, spain;21
+2084;logroÃ±o, la rioja, spain;21
 2085;auckland, n/a, new zealand;36
 2086;barcelona, barcelona, spain;15
 2087;austin, texas, usa;NULL
@@ -2131,7 +2131,7 @@ User-ID;Location;Age
 2130;george town, penang,;34
 2131;jacksonville, florida, usa;25
 2132;hammond, indiana, usa;NULL
-2133;97297 waldbüttelbrunn, bayern, germany;15
+2133;97297 waldbÃ¼ttelbrunn, bayern, germany;15
 2134;oakland, california, usa;35
 2135;irvine, california, usa;NULL
 2136;salem, oregon, usa;45
@@ -2154,11 +2154,11 @@ User-ID;Location;Age
 2153;nashville, tennessee, usa;30
 2154;free union, virginia, usa;NULL
 2155;madrid, madrid, spain;18
-2156;karlstad, värmland, sweden;20
+2156;karlstad, vÃ¤rmland, sweden;20
 2157;denver, colorado, usa;NULL
 2158;james island, south carolina, usa;58
 2159;lancaster, pennsylvania, usa;NULL
-2160;zaragoza, aragón, spain;NULL
+2160;zaragoza, aragÃ³n, spain;NULL
 2161;rocky river, ohio, usa;32
 2162;silver spring, maryland, usa;18
 2163;kerns, obwalden, switzerland;NULL
@@ -2169,7 +2169,7 @@ User-ID;Location;Age
 2168;madrid, n/a, spain;27
 2169;hollister, california, usa;NULL
 2170;kassel, hessen, germany;29
-2171;culiacán, sinaloa, mexico;27
+2171;culiacÃ¡n, sinaloa, mexico;27
 2172;quezon city, n/a, philippines;17
 2173;raesfeld, nordrhein-westfalen, germany;29
 2174;turin, piemonte, italy;NULL
@@ -2191,10 +2191,10 @@ User-ID;Location;Age
 2190;lenexa, kansas, usa;29
 2191;sacramento, california, usa;39
 2192;maidstone, kent, united kingdom;NULL
-2193;köln, nordrhein-westfalen,;NULL
+2193;kÃ¶ln, nordrhein-westfalen,;NULL
 2194;rome, lazio, italy;27
 2195;newhaven, england, united kingdom;NULL
-2196;orimattila, päijät-häme, finland;22
+2196;orimattila, pÃ¤ijÃ¤t-hÃ¤me, finland;22
 2197;n/a, travelling, canada;26
 2198;philadelphia, pennsylvania, usa;NULL
 2199;launceston, tasmania, australia;25
@@ -2206,7 +2206,7 @@ User-ID;Location;Age
 2205;reykjavik, n/a, iceland;NULL
 2206;vestal, new york, usa;26
 2207;north east, pennsylvania, usa;NULL
-2208;avilés, asturias, spain;18
+2208;avilÃ©s, asturias, spain;18
 2209;rapallo, liguria, italy;26
 2210;rijeka, primorsko-goranska ?upanija, croatia;NULL
 2211;castelfidardo, marche, italy;23
@@ -2214,7 +2214,7 @@ User-ID;Location;Age
 2213;heuchlingen lein, baden-wuerttemberg, germany;15
 2214;singen, baden-wuerttemberg, germany;NULL
 2215;goettingen, lower saxony, germany;33
-2216;münster, nordrhein-westfalen, germany;NULL
+2216;mÃ¼nster, nordrhein-westfalen, germany;NULL
 2217;frankfurt/main, n/a, germany;37
 2218;stratham, new hampshire, usa;48
 2219;omaha, nebraska, usa;NULL
@@ -2229,8 +2229,8 @@ User-ID;Location;Age
 2228;palmerston north, manawatu, new zealand;26
 2229;soddy-daisy, tennessee, usa;27
 2230;harpers ferry, west virginia, usa;44
-2231;paris, île de france, france;35
-2232;50678 köln, nordrhein-westfalen, germany;NULL
+2231;paris, Ã®le de france, france;35
+2232;50678 kÃ¶ln, nordrhein-westfalen, germany;NULL
 2233;dundas, ontario, canada;20
 2234;san antonio, texas, usa;NULL
 2235;peterborough, ontario, canada;16
@@ -2266,7 +2266,7 @@ User-ID;Location;Age
 2265;aarhus, n/a, denmark;32
 2266;beziers, herault, france;17
 2267;san marino, california, usa;NULL
-2268;coruña, galicia, spain;22
+2268;coruÃ±a, galicia, spain;22
 2269;el escorial, madrid, spain;19
 2270;thame, united kingdom, united kingdom;NULL
 2271;mooresville, north carolina, usa;NULL
@@ -2277,7 +2277,7 @@ User-ID;Location;Age
 2276;niskayuna, new york, usa;46
 2277;ljk, lkj,;NULL
 2278;raleigh, north carolina, usa;16
-2279;cologne/köln, nordrhein-westfalen, germany;18
+2279;cologne/kÃ¶ln, nordrhein-westfalen, germany;18
 2280;marina del rey, california, usa;42
 2281;vancouver, washington, usa;30
 2282;atlanta, georgia, usa;34
@@ -2301,7 +2301,7 @@ User-ID;Location;Age
 2300;istanbul, n/a, turkey;19
 2301;eugene, oregon, usa;24
 2302;tampere, pirkanmaa, finland;34
-2303;guimarães, braga, portugal;30
+2303;guimarÃ£es, braga, portugal;30
 2304;lindsay, ontario, canada;NULL
 2305;holmrook, cumbria, united kingdom;71
 2306;conway, arkansas, usa;35
@@ -2323,7 +2323,7 @@ User-ID;Location;Age
 2322;norfolk, virginia, usa;24
 2323;indianapolis, indiana, usa;NULL
 2324;atlantic beach, florida, usa;40
-2325;borgholm, öland, sweden;23
+2325;borgholm, Ã¶land, sweden;23
 2326;porto, porto, portugal;23
 2327;albion, new york, usa;28
 2328;lymington, hampshire, united kingdom;NULL
@@ -2347,10 +2347,10 @@ User-ID;Location;Age
 2346;barcelona, barcelona, spain;22
 2347;wilmington, delaware, usa;55
 2348;gijon, asturias, spain;44
-2349;günzburg, bayern, germany;NULL
+2349;gÃ¼nzburg, bayern, germany;NULL
 2350;st. louis, missouri, usa;24
 2351;gelsenkirchen, nordrhein-westfalen, germany;24
-2352;bad dürrheim, baden-wuerttemberg, germany;18
+2352;bad dÃ¼rrheim, baden-wuerttemberg, germany;18
 2353;glasgow, scotland, united kingdom;NULL
 2354;ottawa, ontario, canada;NULL
 2355;gatineau, quebec, canada;NULL
@@ -2381,13 +2381,13 @@ User-ID;Location;Age
 2380;beijing, beijing, china;NULL
 2381;cave junction, oregon, usa;NULL
 2382;houston, texas, usa;NULL
-2383;sta. perpètua de mogoda, n/a, spain;37
+2383;sta. perpÃ¨tua de mogoda, n/a, spain;37
 2384;jordan, ontario, canada;NULL
 2385;london, ontario, canada;NULL
 2386;pittsboro, north carolina, usa;40
 2387;chester, england, united kingdom;NULL
 2388;hawley, pennsylvania, usa;64
-2389;düsseldorf, nordrhein-westfalen, germany;NULL
+2389;dÃ¼sseldorf, nordrhein-westfalen, germany;NULL
 2390;london, england, united kingdom;26
 2391;karachi, idaho, pakistan;45
 2392;barcelona, dc, spain;47
@@ -2404,7 +2404,7 @@ User-ID;Location;Age
 2403;anderson, south carolina, usa;41
 2404;new york, new york, usa;NULL
 2405;bournemouth, england, united kingdom;29
-2406;münchen, bayern, germany;48
+2406;mÃ¼nchen, bayern, germany;48
 2407;cedarburg, wisconsin, usa;NULL
 2408;san jose, california, usa;33
 2409;glastonbury, connecticut, usa;57
@@ -2428,12 +2428,12 @@ User-ID;Location;Age
 2427;a coruha, galicia, spain;36
 2428;london, , united kingdom;NULL
 2429;kingston, ontario, canada;NULL
-2430;ferrol, a coruña, spain;25
+2430;ferrol, a coruÃ±a, spain;25
 2431;algeria, n/a, nigeria;NULL
 2432;johannesburg, alabama, south africa;NULL
-2433;düsseldorf, nrw, germany;NULL
+2433;dÃ¼sseldorf, nrw, germany;NULL
 2434;reed city, michigan, usa;NULL
-2435;vaasa, länsi-suomen lääni, finland;NULL
+2435;vaasa, lÃ¤nsi-suomen lÃ¤Ã¤ni, finland;NULL
 2436;new york, new york, usa;NULL
 2437;san antonio, texas, usa;45
 2438;st. john`s, newfoundland, canada;NULL
@@ -2467,7 +2467,7 @@ User-ID;Location;Age
 2466;olathe, kansas, usa;NULL
 2467;indianapolis, indiana, usa;NULL
 2468;afton, nevada, usa;54
-2469;nürnberg, bayern, germany;NULL
+2469;nÃ¼rnberg, bayern, germany;NULL
 2470;phoenix, arizona, usa;22
 2471;quezon city, metro manila, philippines;19
 2472;asheville, north carolina, usa;35
@@ -2485,9 +2485,9 @@ User-ID;Location;Age
 2484;asheville, north carolina, usa;NULL
 2485;charlottesville, virginia, usa;NULL
 2486;aachen, nordrhein-westfalen, germany;NULL
-2487;holguín, holguín, cuba;46
+2487;holguÃ­n, holguÃ­n, cuba;46
 2488;taubate, sao paulo, brazil;65
-2489;zaragoza, aragón, spain;39
+2489;zaragoza, aragÃ³n, spain;39
 2490;fishers, indiana, usa;NULL
 2491;dalmine, lombardia, italy;36
 2492;eugene, oregon, usa;NULL
@@ -2499,7 +2499,7 @@ User-ID;Location;Age
 2498;las vegas, nevada, usa;NULL
 2499;boulder, colorado, usa;49
 2500;rapid city, south dakota, usa;NULL
-2501;lisboa, loures-apelação, portugal;34
+2501;lisboa, loures-apelaÃ§Ã£o, portugal;34
 2502;frankfurt, hessen, germany;NULL
 2503;london, england, united kingdom;36
 2504;boston, massachusetts, usa;NULL
@@ -2511,11 +2511,11 @@ User-ID;Location;Age
 2510;roy, utah, usa;NULL
 2511;thessaloniki, n/a, greece;31
 2512;donostia, gipuzkoa, spain;28
-2513;säffle, ,;NULL
+2513;sÃ¤ffle, ,;NULL
 2514;geneva, n/a, switzerland;NULL
 2515;reus, tarragona, spain;38
 2516;pontevedra, galicia, spain;21
-2517;8111 judendorf-straßengel, styria--austria, austria;NULL
+2517;8111 judendorf-straÃŸengel, styria--austria, austria;NULL
 2518;madrid, madrid, spain;28
 2519;kalamazoo, michigan, usa;NULL
 2520;hondarribia, euskadi, spain;42
@@ -2531,7 +2531,7 @@ User-ID;Location;Age
 2530;melbourne, victoria, australia;NULL
 2531;brescia, lombardia, italy;20
 2532;bloomington, indiana, usa;16
-2533;málaga, andalucía, spain;28
+2533;mÃ¡laga, andalucÃ­a, spain;28
 2534;kamloops, british columbia, canada;NULL
 2535;chelmsford, england, united kingdom;38
 2536;roma, lazio, italy;29
@@ -2551,7 +2551,7 @@ User-ID;Location;Age
 2550;montpellier, illinois, france;NULL
 2551;lincoln, nebraska, usa;NULL
 2552;frankenthal, rheinland-pfalz, alderney;NULL
-2553;katowice, ?l¹sk, poland;NULL
+2553;katowice, ?lÂ¹sk, poland;NULL
 2554;christchurch, n/a, new zealand;24
 2555;turnersville, new jersey, usa;NULL
 2556;gosport, indiana, usa;NULL
@@ -2572,7 +2572,7 @@ User-ID;Location;Age
 2571;moranbah, queensland, australia;NULL
 2572;padova/varese, italy, italy;36
 2573;jupiter, florida, usa;55
-2574;linlöping, östergötland, sweden;NULL
+2574;linlÃ¶ping, Ã¶stergÃ¶tland, sweden;NULL
 2575;orlando, florida, usa;35
 2576;"barcelona, \n/a\"", spain""";25
 2577;bronxville, new york, usa;59
@@ -2597,7 +2597,7 @@ User-ID;Location;Age
 2596;offenburg, baden-wuerttemberg, germany;NULL
 2597;ypsilanti, michigan, usa;29
 2598;flushing, michigan, usa;NULL
-2599;logroño, la rioja, spain;15
+2599;logroÃ±o, la rioja, spain;15
 2600;salamanca, salamanca, spain;29
 2601;brighton, south australia, australia;18
 2602;providence, rhode island, usa;NULL
@@ -2612,7 +2612,7 @@ User-ID;Location;Age
 2611;vero beach, florida, usa;NULL
 2612;wuppertal, nordrhein-westfalen, germany;NULL
 2613;geneva, new york, usa;NULL
-2614;düsseldorf, nordrhein-westfalen, germany;NULL
+2614;dÃ¼sseldorf, nordrhein-westfalen, germany;NULL
 2615;vienna, vienna, austria;NULL
 2616;fairbanks, alaska, usa;NULL
 2617;adelaide, south australia, australia;35
@@ -2664,7 +2664,7 @@ User-ID;Location;Age
 2663;verona, veneto, italy;NULL
 2664;"lagos nigeria, \n/a\"", nigeria""";25
 2665;balozi, rigas rajons, latvia;NULL
-2666;köln, nordrhein-westfalen, germany;NULL
+2666;kÃ¶ln, nordrhein-westfalen, germany;NULL
 2667;athens, attiki, greece;37
 2668;los angeles, california, usa;NULL
 2669;alicante, spain, spain;24
@@ -2693,7 +2693,7 @@ User-ID;Location;Age
 2692;charles town, west virginia, usa;NULL
 2693;birkenau, hessen, germany;44
 2694;dortmund, nordrhein-westfalen, germany;58
-2695;são paulo, são paulo, brazil;21
+2695;sÃ£o paulo, sÃ£o paulo, brazil;21
 2696;hamburg, hamburg, germany;NULL
 2697;roma, lazio, italy;52
 2698;milano, lombardia, italy;66
@@ -2722,7 +2722,7 @@ User-ID;Location;Age
 2721;st peter, channel islands, jersey;39
 2722;palestine, texas, usa;51
 2723;bristol, england, united kingdom;NULL
-2724;tübingen, baden-württemberg, germany;NULL
+2724;tÃ¼bingen, baden-wÃ¼rttemberg, germany;NULL
 2725;herne bay, kent, england, united kingdom;71
 2726;utrecht, netherlands, netherlands;NULL
 2727;"berlin, \n/a\"", germany""";NULL
@@ -2730,8 +2730,8 @@ User-ID;Location;Age
 2729;sagliano micca, piemonte, italy;19
 2730;east hanover, new jersey, usa;34
 2731;victoria, british columbia, canada;NULL
-2732;kraków, ma³opolska, poland;NULL
-2733;hürth, nordrhein-westfalen, germany;NULL
+2732;krakÃ³w, maÂ³opolska, poland;NULL
+2733;hÃ¼rth, nordrhein-westfalen, germany;NULL
 2734;schrondweiler, n/a, luxembourg;NULL
 2735;palos heights, illinois, usa;47
 2736;san jose, california, usa;44
@@ -2761,7 +2761,7 @@ User-ID;Location;Age
 2760;n/a, aargau, switzerland;23
 2761;mandeville, louisiana, usa;NULL
 2762;aveiro, molise, portugal;26
-2763;são paulo, são paulo, brazil;NULL
+2763;sÃ£o paulo, sÃ£o paulo, brazil;NULL
 2764;warszawa, non applicable, poland;NULL
 2765;athens, attica, greece;NULL
 2766;frisco, texas, usa;42
@@ -2781,7 +2781,7 @@ User-ID;Location;Age
 2780;glasgow, scotland, united kingdom;NULL
 2781;pescara, abruzzo, italy;30
 2782;groningen, groningen, netherlands;33
-2783;cologne/köln, nordrhein-westfalen, germany;43
+2783;cologne/kÃ¶ln, nordrhein-westfalen, germany;43
 2784;pisa, toscana,;27
 2785;hannover, niedersachsen, germany;34
 2786;odense, n/a, denmark;NULL
@@ -2800,10 +2800,10 @@ User-ID;Location;Age
 2799;eugene, oregon, usa;NULL
 2800;rome, lazio, italy;NULL
 2801;lisboa, n/a, portugal;25
-2802;málaga, málaga, spain;46
+2802;mÃ¡laga, mÃ¡laga, spain;46
 2803;barcelona, barcelona, spain;36
 2804;sarasota, florida, usa;53
-2805;sevilla, españa, spain;44
+2805;sevilla, espaÃ±a, spain;44
 2806;lisboa, ,;1
 2807;madrid, n/a, spain;20
 2808;madrid, n/a, spain;21
@@ -2860,7 +2860,7 @@ User-ID;Location;Age
 2859;citrus heights, california, usa;NULL
 2860;duesseldorf, nordrhein-westfalen, germany;35
 2861;columbus, ohio, usa;26
-2862;tübingen, baden-würtemberg, germany;20
+2862;tÃ¼bingen, baden-wÃ¼rtemberg, germany;20
 2863;lisbon, n/a, portugal;34
 2864;bloomington, indiana, usa;NULL
 2865;wilmington, delaware, usa;25
@@ -2877,7 +2877,7 @@ User-ID;Location;Age
 2876;acworth, georgia, usa;22
 2877;portland, oregon, usa;39
 2878;minnetonka, minnesota, usa;41
-2879;tres ríos, cartago, costa rica;19
+2879;tres rÃ­os, cartago, costa rica;19
 2880;hendersonville, north carolina, usa;NULL
 2881;kunming, calabria, china;NULL
 2882;olympia, washington, usa;43
@@ -2903,7 +2903,7 @@ User-ID;Location;Age
 2902;petaling jaya, selangor, malaysia;NULL
 2903;lower hutt, n/a, new zealand;22
 2904;linkoping, n/a, sweden;32
-2905;barcelona, cataluña, spain;27
+2905;barcelona, cataluÃ±a, spain;27
 2906;paris, ile de france, france;20
 2907;new york, new york, usa;NULL
 2908;uppsala, n/a, sweden;NULL
@@ -3027,7 +3027,7 @@ User-ID;Location;Age
 3026;kuala lumpur, kuala lumpur, malaysia;NULL
 3027;swindon, wilts, england, united kingdom;41
 3028;novara, piemonte, italy;21
-3029;torremolinos, málaga, spain;20
+3029;torremolinos, mÃ¡laga, spain;20
 3030;anchorage, alaska, usa;NULL
 3031;chester, vermont, usa;NULL
 3032;sydney, new south wales, australia;40
@@ -3045,7 +3045,7 @@ User-ID;Location;Age
 3044;vienna, austria, bayern, austria;27
 3045;canovelles, barcelona, spain;30
 3046;burlington, ontario, canada;NULL
-3047;käng, n/a, sweden;16
+3047;kÃ¤ng, n/a, sweden;16
 3048;klamath falls, oregon, usa;NULL
 3049;gold coast, queensland, australia;NULL
 3050;stillwater, minnesota, usa;29
@@ -3056,7 +3056,7 @@ User-ID;Location;Age
 3055;oldenburg, niedersachsen, germany;24
 3056;roma, lazio, italy;NULL
 3057;athens - n. psychiko, ,;30
-3058;mariehamn, åland islands, finland;NULL
+3058;mariehamn, Ã¥land islands, finland;NULL
 3059;london, england, united kingdom;44
 3060;bartlett, tennessee, usa;NULL
 3061;st. louis, missouri, usa;19
@@ -3083,8 +3083,8 @@ User-ID;Location;Age
 3082;deerfield, ohio, usa;47
 3083;bodega bay, california, usa;56
 3084;london, london, united kingdom;26
-3085;zürich, switzerland, switzerland;104
-3086;lyon, rhône-alpes, france;21
+3085;zÃ¼rich, switzerland, switzerland;104
+3086;lyon, rhÃ´ne-alpes, france;21
 3087;berthoud, colorado, usa;20
 3088;avignon, vaucluse, france;25
 3089;st.paul, minnasota, usa;NULL
@@ -3093,11 +3093,11 @@ User-ID;Location;Age
 3092;marseille, provence, france;33
 3093;belle plaine, iowa, usa;46
 3094;hannover, niedersachsen, germany;NULL
-3095;córdoba, córdoba, argentina;19
+3095;cÃ³rdoba, cÃ³rdoba, argentina;19
 3096;n/a, n/a, n/a;NULL
 3097;trieste, friuli venezia giulia, italy;NULL
 3098;wirral, wirral, united kingdom;34
-3099;umeå, västerbotten, sweden;NULL
+3099;umeÃ¥, vÃ¤sterbotten, sweden;NULL
 3100;oakland, california, usa;42
 3101;barcelona, barcelona, spain;28
 3102;barcelona, catalunya, spain;65
@@ -3185,9 +3185,9 @@ User-ID;Location;Age
 3184;badalona, barcelona, spain;18
 3185;oslo, oslo, norway;NULL
 3186;hilo, ,;NULL
-3187;vitoria, álava, spain;24
+3187;vitoria, Ã¡lava, spain;24
 3188;cedar rapids, iowa, usa;29
-3189;évora, alentejo, portugal;17
+3189;Ã©vora, alentejo, portugal;17
 3190;christchurch, canterbury, new zealand;NULL
 3191;sligo, connaught, ireland;29
 3192;milwaukee, wisconsin, usa;NULL
@@ -3211,11 +3211,11 @@ User-ID;Location;Age
 3210;kota bharu, kelantan, malaysia;19
 3211;le mesnil saint denis, yvelines, france;119
 3212;barcelona, catalunya, spain;18
-3213;málaga, andalucía, spain;37
+3213;mÃ¡laga, andalucÃ­a, spain;37
 3214;adelaide, south australia, australia;22
 3215;lemona, bizkaia, spain;30
 3216;dublin, victoria, ireland;25
-3217;norrköping, n/a, sweden;NULL
+3217;norrkÃ¶ping, n/a, sweden;NULL
 3218;tampere, n/a, finland;21
 3219;dittelsheim-hessloch, rheinland-pfalz, germany;36
 3220;barcelona, catalunya, spain;33
@@ -3244,7 +3244,7 @@ User-ID;Location;Age
 3243;atlanta, georgia, usa;28
 3244;sommersted, jylland, denmark;NULL
 3245;riverton, illinois, usa;NULL
-3246;méxico, distrito federal, mexico;44
+3246;mÃ©xico, distrito federal, mexico;44
 3247;como, lombardia, italy;25
 3248;birmingham, england, united kingdom;20
 3249;moratuwa, western, sri lanka;NULL
@@ -3260,7 +3260,7 @@ User-ID;Location;Age
 3259;alta gracia, n/a, la argentina;37
 3260;lawrenceville, georgia, usa;45
 3261;lenexa, ,;42
-3262;gießen, hessen, germany;21
+3262;gieÃŸen, hessen, germany;21
 3263;venezia, veneto, italy;27
 3264;eerbeek, gelderland, netherlands;NULL
 3265;st-ignace-de-loyola, quebec, canada;NULL
@@ -3272,7 +3272,7 @@ User-ID;Location;Age
 3271;baldwin park, california, usa;47
 3272;schertz, texas, usa;NULL
 3273;surrey, british columbia, canada;44
-3274;a coruña, galicia, spain;55
+3274;a coruÃ±a, galicia, spain;55
 3275;calama, ii region, chile;29
 3276;whitehorse, yukon territory, canada;NULL
 3277;atlanta, georgia, usa;36
@@ -3384,7 +3384,7 @@ User-ID;Location;Age
 3383;rome, lazio, italy;NULL
 3384;ampang, selangor, malaysia;13
 3385;al khobar, eastern province, saudi arabia;42
-3386;castelldefels, cataluña, spain;49
+3386;castelldefels, cataluÃ±a, spain;49
 3387;madrid, madrid, spain;NULL
 3388;norwich, england, united kingdom;NULL
 3389;london, england, united kingdom;32
@@ -3411,7 +3411,7 @@ User-ID;Location;Age
 3410;montgomery, illinois, usa;NULL
 3411;monument, colorado, usa;20
 3412;lisbon, scotland, portugal;29
-3413;a coruña, galicia, spain;35
+3413;a coruÃ±a, galicia, spain;35
 3414;singapore, n/a, singapore;21
 3415;capital, san juan, argentina;16
 3416;aachen, nordrhein-westfalen, germany;34
@@ -3421,9 +3421,9 @@ User-ID;Location;Age
 3420;fremont, california, usa;18
 3421;mcminnville, oregon, usa;NULL
 3422;gawler east, south australia, australia;14
-3423;barañain, navarra, spain;21
+3423;baraÃ±ain, navarra, spain;21
 3424;zaragoza, zaragoza, spain;28
-3425;san sebastián, país vasco, spain;27
+3425;san sebastiÃ¡n, paÃ­s vasco, spain;27
 3426;barcelona, barcelona, spain;20
 3427;eldorado, illinois, usa;50
 3428;winnipeg, manitoba, canada;39
@@ -3442,7 +3442,7 @@ User-ID;Location;Age
 3441;waukesha, wisconsin, usa;NULL
 3442;lisboa, alabama, portugal;NULL
 3443;dyer, indiana, usa;NULL
-3444;barcelona, cataluña, spain;48
+3444;barcelona, cataluÃ±a, spain;48
 3445;la mirada, california, usa;45
 3446;macungie, pennsylvania, usa;47
 3447;auckland, north island, new zealand;NULL
@@ -3495,14 +3495,14 @@ User-ID;Location;Age
 3494;oud vossemeer, zeeland, netherlands;NULL
 3495;denver, colorado, usa;NULL
 3496;omaha, nebraska, usa;NULL
-3497;tübingen, n/a, germany;NULL
+3497;tÃ¼bingen, n/a, germany;NULL
 3498;monticello, minnesota, usa;NULL
 3499;winchester, virginia, usa;NULL
 3500;simpsonville, south carolina, usa;55
 3501;oakland, oregon, usa;NULL
 3502;mount ephraim, new jersey, usa;41
 3503;hillsboro, illinois, usa;23
-3504;plüderhausen, baden-wuerttemberg, germany;32
+3504;plÃ¼derhausen, baden-wuerttemberg, germany;32
 3505;florissant, missouri, usa;30
 3506;new york, new york, usa;NULL
 3507;chicago, illinois, usa;NULL
@@ -3528,7 +3528,7 @@ User-ID;Location;Age
 3527;menston, england, united kingdom;NULL
 3528;omaha, nebraska, usa;NULL
 3529;brisbane, queensland, australia;47
-3530;mérida, yucatán, mexico;48
+3530;mÃ©rida, yucatÃ¡n, mexico;48
 3531;spencer, oklahoma, usa;40
 3532;fayetteville, new york, usa;NULL
 3533;london, england, united kingdom;39
@@ -3616,12 +3616,12 @@ User-ID;Location;Age
 3615;north pole, alaska, usa;NULL
 3616;eagle river, alaska, usa;33
 3617;baroda, gujarat, india;NULL
-3618;järvelä, päijät-häme, finland;16
+3618;jÃ¤rvelÃ¤, pÃ¤ijÃ¤t-hÃ¤me, finland;16
 3619;washington, dc, usa;NULL
 3620;buras, louisiana, usa;29
 3621;gainesville, florida, usa;23
 3622;round rock, tx, csa;NULL
-3623;kalliola, päijät-häme, finland;NULL
+3623;kalliola, pÃ¤ijÃ¤t-hÃ¤me, finland;NULL
 3624;rochester, new york, usa;NULL
 3625;milan, lombardia, italy;NULL
 3626;auckland, n/a, new zealand;NULL
@@ -3651,8 +3651,8 @@ User-ID;Location;Age
 3650;athens, georgia, usa;37
 3651;dresden, sachsen, germany;NULL
 3652;levallois-perret, ile-de-france, france;16
-3653;castellón, castellón, spain;20
-3654;esslingen, baden-württemberg, germany;NULL
+3653;castellÃ³n, castellÃ³n, spain;20
+3654;esslingen, baden-wÃ¼rttemberg, germany;NULL
 3655;tucker, georgia,;33
 3656;inglewood, california, usa;NULL
 3657;east bend, north carolina, usa;22
@@ -3678,9 +3678,9 @@ User-ID;Location;Age
 3677;darlington, south carolina, usa;2
 3678;zaragoza, zaragoza, spain;27
 3679;allston, massachusetts, usa;25
-3680;mexico city, coyoacán, mexico;15
+3680;mexico city, coyoacÃ¡n, mexico;15
 3681;santiago, missouri, chile;24
-3682;vilanova i la geltrú, catalunya, spain;19
+3682;vilanova i la geltrÃº, catalunya, spain;19
 3683;barcelona, barcelona, spain;24
 3684;barnet, england, united kingdom;68
 3685;oklahoma city, oklahoma, usa;33
@@ -3695,14 +3695,14 @@ User-ID;Location;Age
 3694;raleigh, north carolina, usa;16
 3695;boston, massachusetts, usa;24
 3696;chennai, tamil nadu, india;14
-3697;königswinter, nrw, germany;NULL
+3697;kÃ¶nigswinter, nrw, germany;NULL
 3698;moorhead, minnesota, usa;15
 3699;madrid, n/a, spain;33
 3700;eisenhuettenstadt, brandenburg, germany;NULL
 3701;rouen, normandie, france;18
 3702;ft.stewart, georgia, usa;48
 3703;virginia beach, virginia, usa;23
-3704;montbéliard, franche-comté, france;25
+3704;montbÃ©liard, franche-comtÃ©, france;25
 3705;badalona, barcelona, spain;28
 3706;elizabeth, new jersey, usa;NULL
 3707;fayetteville, north carolina, usa;25
@@ -3734,7 +3734,7 @@ User-ID;Location;Age
 3733;bloomington, minnesota, usa;NULL
 3734;belle chasse, louisiana, usa;43
 3735;vaasa, n/a, finland;47
-3736;são paulo, são paulo, brazil;NULL
+3736;sÃ£o paulo, sÃ£o paulo, brazil;NULL
 3737;melbourne, victoria, australia;15
 3738;hamilton, ontario, canada;14
 3739;hamilton, ,;NULL
@@ -3761,7 +3761,7 @@ User-ID;Location;Age
 3760;austin, texas, usa;13
 3761;san diego, california, usa;NULL
 3762;sta.coloma de gramenet, barcelona, spain;25
-3763;sevilla, andalucía, spain;32
+3763;sevilla, andalucÃ­a, spain;32
 3764;wien, n/a, austria;19
 3765;vitoria, ,;21
 3766;oviedo, asturias, spain;22
@@ -3803,7 +3803,7 @@ User-ID;Location;Age
 3802;mla, mla, phils;NULL
 3803;hayward, california, usa;NULL
 3804;bonn, nordrhein-westfalen, germany;NULL
-3805;são paulo, são paulo, brazil;32
+3805;sÃ£o paulo, sÃ£o paulo, brazil;32
 3806;milano, lombardia, italy;32
 3807;bilbao, pais vasco, spain;18
 3808;wien, wien, austria;14
@@ -3885,8 +3885,8 @@ User-ID;Location;Age
 3884;arlington, washington, usa;64
 3885;burlington, north carolina, usa;NULL
 3886;whitby, ontario, canada;NULL
-3887;kocaeli, özel inanc lisesi, turkey;NULL
-3888;a coruña, la coruña, spain;23
+3887;kocaeli, Ã¶zel inanc lisesi, turkey;NULL
+3888;a coruÃ±a, la coruÃ±a, spain;23
 3889;piqua, ohio, usa;NULL
 3890;anchorage, alaska, usa;NULL
 3891;remseck, baden-wuerttemberg, germany;35
@@ -3917,7 +3917,7 @@ User-ID;Location;Age
 3916;modena, emilia romagna, italy;36
 3917;toronto, ontario, canada;25
 3918;abilene, ,;NULL
-3919;niederstetten, baden-württemberg, germany;NULL
+3919;niederstetten, baden-wÃ¼rttemberg, germany;NULL
 3920;e. granby, connecticut, usa;42
 3921;geneva, illinois, usa;45
 3922;melbourne, victoria, australia;43
@@ -3955,7 +3955,7 @@ User-ID;Location;Age
 3954;detroit, michigan, usa;24
 3955;barcelona, catalunya, spain;32
 3956;paris, ile-de-france, france;34
-3957;deià, mallorca, spain;51
+3957;deiÃ , mallorca, spain;51
 3958;telford, england, united kingdom;NULL
 3959;st.clair shores, michigan, usa;23
 3960;herouville-saint-clair, normandie, france;51
@@ -3970,8 +3970,8 @@ User-ID;Location;Age
 3969;mainz, rheinland-pfalz, germany;38
 3970;ajax, ontario, canada;24
 3971;cairo, cairo,;NULL
-3972;almuñecar, alabama, spain;45
-3973;barcelona, cataluña, spain;24
+3972;almuÃ±ecar, alabama, spain;45
+3973;barcelona, cataluÃ±a, spain;24
 3974;dusseldorf, nordrhein-westfalen, germany;38
 3975;c.m.c.h., new jersey, usa;29
 3976;alabaster, alabama, usa;55
@@ -3984,7 +3984,7 @@ User-ID;Location;Age
 3983;north oaks, minnesota, usa;NULL
 3984;sydney, new south wales, australia;19
 3985;medina, ohio, usa;NULL
-3986;évora, alentejo, portugal;36
+3986;Ã©vora, alentejo, portugal;36
 3987;wiesbaden, hessen, germany;17
 3988;fredericton, new brunswick, canada;NULL
 3989;glasgow, n/a, united kingdom;36
@@ -3993,7 +3993,7 @@ User-ID;Location;Age
 3992;santa clarita, california, usa;NULL
 3993;titusville, florida, usa;39
 3994;milan, ,;NULL
-3995;québec, quebec, canada;NULL
+3995;quÃ©bec, quebec, canada;NULL
 3996;torino di sangro, abruzzo, italy;23
 3997;milano, louisiana, italy;NULL
 3998;naples, italy, italy;NULL
@@ -4004,12 +4004,12 @@ User-ID;Location;Age
 4003;vero beach, florida, usa;NULL
 4004;pompano beach, florida, usa;NULL
 4005;los palacios, sevilla, spain;31
-4006;stuttgart, baden-württemberg,;NULL
-4007;büttelborn, hessen, germany;40
+4006;stuttgart, baden-wÃ¼rttemberg,;NULL
+4007;bÃ¼ttelborn, hessen, germany;40
 4008;lisboa, lisboa, portugal;25
 4009;bandar seri begawan, n/a, brunei;27
 4010;augusta, georgia, usa;32
-4011;verviers, liège, belgium;42
+4011;verviers, liÃ¨ge, belgium;42
 4012;bruxelles, n/a, belgium;39
 4013;parmain, ile-de-france, france;53
 4014;philadelphia, pennsylvania, usa;29
@@ -4025,7 +4025,7 @@ User-ID;Location;Age
 4024;nixa, missouri, usa;NULL
 4025;burwood, new south wales, australia;16
 4026;morogoro, tanzania, morogoro,;NULL
-4027;klagenfurt, kärnten, austria;18
+4027;klagenfurt, kÃ¤rnten, austria;18
 4028;athens, n/a, greece;26
 4029;tours, indre et loire, france;26
 4030;oslo, oslo, norway;32
@@ -4041,7 +4041,7 @@ User-ID;Location;Age
 4040;san antonio, texas, usa;NULL
 4041;alamogordo, new mexico, usa;45
 4042;san marcos, texas, usa;0
-4043;buenos aires, ¨n/a¨, argentina;26
+4043;buenos aires, Â¨n/aÂ¨, argentina;26
 4044;eagle mountain, utah, usa;33
 4045;houston, texas, usa;NULL
 4046;harvest, alabama, usa;42
@@ -4072,7 +4072,7 @@ User-ID;Location;Age
 4071;plymouth, devon, united kingdom;30
 4072;dunedin, otago, new zealand;NULL
 4073;lakewood, ohio, usa;44
-4074;fortaleza, ceará, brazil;23
+4074;fortaleza, cearÃ¡, brazil;23
 4075;lacres, nord-pas de calis, france;50
 4076;barcelona, barcelona, spain;27
 4077;austin, texas, usa;NULL
@@ -4127,7 +4127,7 @@ User-ID;Location;Age
 4126;tigard, oregon, usa;NULL
 4127;dunedin, otago, new zealand;33
 4128;chihuahua, chihuahua, mexico;23
-4129;são paulo, são paulo, brazil;26
+4129;sÃ£o paulo, sÃ£o paulo, brazil;26
 4130;galway, county galway, ireland;NULL
 4131;hemel hempstead, england, united kingdom;51
 4132;wichita, kansas, usa;38
@@ -4149,14 +4149,14 @@ User-ID;Location;Age
 4148;wallingford, kentucky, usa;20
 4149;highland, utah, usa;NULL
 4150;dansville, new york, usa;NULL
-4151;santa eulalia del río, illes balears, spain;27
+4151;santa eulalia del rÃ­o, illes balears, spain;27
 4152;granada, granada, spain;23
-4153;granada, españa, spain;23
+4153;granada, espaÃ±a, spain;23
 4154;pori, n/a, finland;NULL
 4155;arezzo, ar, italy;28
 4156;santo domingo, distrito nacional, dominican republic;21
 4157;birmingham, alabama, usa;39
-4158;alàs, alt urgell, spain;40
+4158;alÃ s, alt urgell, spain;40
 4159;abbotsford, british columbia, canada;NULL
 4160;rimini, emilia romagna, italy;NULL
 4161;hurstville, new south wales, australia;25
@@ -4230,7 +4230,7 @@ User-ID;Location;Age
 4229;port coquitlam, british columbia, canada;22
 4230;riverton, utah, usa;NULL
 4231;ankara, n/a, turkey;38
-4232;zürich, zürich, switzerland;NULL
+4232;zÃ¼rich, zÃ¼rich, switzerland;NULL
 4233;kurtzenhouse, bas-rhin, france;19
 4234;comfort, texas, usa;NULL
 4235;woodstock, georgia, usa;NULL
@@ -4253,16 +4253,16 @@ User-ID;Location;Age
 4252;barcelona, catalunya, spain;26
 4253;dortmund, nordrhein-westfalen, germany;36
 4254;panama, panama, panama;54
-4255;genève, genève, switzerland;103
+4255;genÃ¨ve, genÃ¨ve, switzerland;103
 4256;strasbourg, alsace, france;27
 4257;austin, texas, usa;45
 4258;zurich, n/a, switzerland;NULL
 4259;albania, albania, albania;NULL
 4260;lyon, n/a, france;31
 4261;barcelona, catalunya, spain;34
-4262;huesca, españa, spain;36
+4262;huesca, espaÃ±a, spain;36
 4263;sharbot lake, ontario, canada;71
-4264;tlalnepantla, estado de méxico, mexico;NULL
+4264;tlalnepantla, estado de mÃ©xico, mexico;NULL
 4265;lakeville, connecticut, usa;45
 4266;los angeles, california, usa;38
 4267;montpellier, n/a, france;NULL
@@ -4294,8 +4294,8 @@ User-ID;Location;Age
 4293;valladolid, valladolid, spain;25
 4294;new bremen, ohio, usa;NULL
 4295;mukilteo, washington, usa;NULL
-4296;méxico, méxico, mexico;21
-4297;méxico, méxico, mexico;21
+4296;mÃ©xico, mÃ©xico, mexico;21
+4297;mÃ©xico, mÃ©xico, mexico;21
 4298;beijing, beijing, china;NULL
 4299;roma, lazio, italy;37
 4300;lauingen, bayern, germany;60
@@ -4314,7 +4314,7 @@ User-ID;Location;Age
 4313;barcelona, barcelona, spain;29
 4314;barcelona, barcelona, spain;29
 4315;jonesboro, georgia, usa;NULL
-4316;santiago de compostela, galícia, spain;17
+4316;santiago de compostela, galÃ­cia, spain;17
 4317;slfjk, alberta, brazil;27
 4318;leiria, leiria, portugal;38
 4319;milano, lombardia, italy;NULL
@@ -4327,11 +4327,11 @@ User-ID;Location;Age
 4326;milano, lombardia, italy;NULL
 4327;atlanta, georgia, usa;47
 4328;milan, lombardia, italy;24
-4329;monterrey, nuevo león, monterrey;27
+4329;monterrey, nuevo leÃ³n, monterrey;27
 4330;crema, lombardia, italy;24
 4331;barcelona, barcelona, spain;27
 4332;bellinzona, ticino, switzerland;NULL
-4333;fuengirola, málaga, spain;17
+4333;fuengirola, mÃ¡laga, spain;17
 4334;rome, lazio, italy;38
 4335;ciempozuelos, madrid, spain;NULL
 4336;rome, lazio, italy;27
@@ -4362,7 +4362,7 @@ User-ID;Location;Age
 4361;spokane, washington, usa;55
 4362;eden prairie, minnesota, usa;NULL
 4363;la laguna, canarias, spain;22
-4364;stockholm, södermalm, sweden;NULL
+4364;stockholm, sÃ¶dermalm, sweden;NULL
 4365;victoria, british columbia, canada;19
 4366;afton, new york, usa;NULL
 4367;la zubia, granada, spain;55
@@ -4407,7 +4407,7 @@ User-ID;Location;Age
 4406;zaragoza, aragon, spain;29
 4407;lisbon, lisbon, portugal;NULL
 4408;belgrade, serbia, yugoslavia;25
-4409;huesca, españa, spain;45
+4409;huesca, espaÃ±a, spain;45
 4410;leipzig, sachsen, germany;25
 4411;buffalo, new york, usa;45
 4412;acqui terme, piemonte, italy;21
@@ -4427,7 +4427,7 @@ User-ID;Location;Age
 4426;des moines, iowa, usa;NULL
 4427;barcelona, n/a, spain;27
 4428;cartagena, murcia, spain;31
-4429;järfälla, stockholms län, sweden;NULL
+4429;jÃ¤rfÃ¤lla, stockholms lÃ¤n, sweden;NULL
 4430;new york, new york, usa;NULL
 4431;lewisville, texas, usa;NULL
 4432;oxford, oxon, united kingdom;64
@@ -4451,7 +4451,7 @@ User-ID;Location;Age
 4450;amadora, lisboa, portugal;22
 4451;london, n/a, united kingdom;55
 4452;viersen, nrw, germany;NULL
-4453;loulé, algarve, portugal;31
+4453;loulÃ©, algarve, portugal;31
 4454;badajoz, n/a, spain;42
 4455;oakdale, minnesota, usa;NULL
 4456;valencia, valencia, spain;20
@@ -4470,13 +4470,13 @@ User-ID;Location;Age
 4469;guadalajara,, jalisco, mexico, mexico;36
 4470;bilbao, veneto, spain;30
 4471;darmstadt, hessen, germany;NULL
-4472;málaga, andalucía, spain;24
+4472;mÃ¡laga, andalucÃ­a, spain;24
 4473;shippensburg, pennsylvania, usa;18
 4474;amsterdam, noord holland, netherlands;NULL
 4475;milano, lombardia, italy;NULL
 4476;adelaide, south australia, australia;50
 4477;tunbridge wells, england, united kingdom;42
-4478;munderfing, oberösterreich, austria;NULL
+4478;munderfing, oberÃ¶sterreich, austria;NULL
 4479;viareggio, toscana, italy;59
 4480;rio de janeiro, rio de janeiro, brazil;22
 4481;madrid, n/a, spain;32
@@ -4499,7 +4499,7 @@ User-ID;Location;Age
 4498;manchester, lancashire, united kingdom;57
 4499;graz, steiermark, austria;32
 4500;gallarate, lombardia, italy;36
-4501;köln, nordrhein-westfalen, germany;NULL
+4501;kÃ¶ln, nordrhein-westfalen, germany;NULL
 4502;milan, italy, italy;NULL
 4503;climax, minnesota, usa;NULL
 4504;magenta, lombardia, italy;NULL
@@ -4512,7 +4512,7 @@ User-ID;Location;Age
 4511;lisbon, n/a, portugal;61
 4512;nice, paca, france;22
 4513;jesup, georgia, usa;NULL
-4514;vila nova de famalicão, braga, portugal;23
+4514;vila nova de famalicÃ£o, braga, portugal;23
 4515;rome, lazio, italy;NULL
 4516;greenville, south carolina, usa;66
 4517;toowoomba, queensland, australia;NULL
@@ -4562,7 +4562,7 @@ User-ID;Location;Age
 4561;kansas city, missouri, usa;NULL
 4562;gloucester, england, united kingdom;27
 4563;stockholm, alaska, sweden;20
-4564;barcelona, cataluña, spain;39
+4564;barcelona, cataluÃ±a, spain;39
 4565;barcelona, catalunya, spain;40
 4566;roman, neamt, romania;19
 4567;west hills, california, usa;65
@@ -4583,15 +4583,15 @@ User-ID;Location;Age
 4582;greenwood village, colorado, usa;NULL
 4583;lahore, n/a, pakistan;19
 4584;derby, derbyshire,;NULL
-4585;lyon, rhône, france;31
+4585;lyon, rhÃ´ne, france;31
 4586;montevideo, montevideo, urugua;36
 4587;ourense, ourense, spain;30
 4588;buenos aires, n/a, argentina;27
-4589;ferrol, a coruña, spain;24
+4589;ferrol, a coruÃ±a, spain;24
 4590;madrid, madrid, spain;21
 4591;salzburg, salzburg, austria;21
 4592;corpus christi, texas, usa;NULL
-4593;bad dürkheim, rheinland-pfalz, germany;45
+4593;bad dÃ¼rkheim, rheinland-pfalz, germany;45
 4594;greenbelt, maryland, usa;NULL
 4595;lisboa, n/a, portugal;40
 4596;montevideo, saarland, uruguay;NULL
@@ -4602,22 +4602,22 @@ User-ID;Location;Age
 4601;birmingham, stroud, united kingdom;NULL
 4602;campobasso, molise, italy;NULL
 4603;germersheim, rheinland-pfalz, germany;29
-4604;mönchengladbach, nordrhein-westfalen, germany;36
+4604;mÃ¶nchengladbach, nordrhein-westfalen, germany;36
 4605;barcelona, catalonia, spain;44
 4606;capital federal, capital federal, argentina;43
 4607;guadalajara, spain, spain;NULL
 4608;portland, oregon, usa;NULL
 4609;piumazzo (modena), n/a, italy;NULL
-4610;tucumán, tucumán, argentina;35
+4610;tucumÃ¡n, tucumÃ¡n, argentina;35
 4611;sevilla, sevilla, spain;22
 4612;distrito federal, distrito federal, mexico;33
 4613;zaragoza, n/a, spain;30
-4614;a coruña, a coruñagalicia, spain;35
+4614;a coruÃ±a, a coruÃ±agalicia, spain;35
 4615;caguas,pr, puerto rico, usa;49
 4616;san sebastian, gipuzkoa, spain;34
-4617;méxico, df, mexico;22
+4617;mÃ©xico, df, mexico;22
 4618;arlington, virginia, usa;20
-4619;huetor vega, granada, españa;15
+4619;huetor vega, granada, espaÃ±a;15
 4620;castelar, n/a, argentina;50
 4621;lima, n/a, peru;28
 4622;norfolk, virginia, usa;18
@@ -4638,7 +4638,7 @@ User-ID;Location;Age
 4637;roma, lazio, italy;NULL
 4638;novi sad, serbia, voivodina, yugoslavia;37
 4639;norwalk, connecticut, usa;NULL
-4640;"brønshøj, \n/a\"", denmark""";NULL
+4640;"brÃ¸nshÃ¸j, \n/a\"", denmark""";NULL
 4641;olsztyn, varmia, poland;20
 4642;lodz, alaska, poland;21
 4643;oxnard, california, usa;30
@@ -4657,15 +4657,15 @@ User-ID;Location;Age
 4656;fiskdale, massachusetts, usa;NULL
 4657;tallahassee, florida, usa;NULL
 4658;milano, italy, italy;NULL
-4659;córdoba, córdoba, argentina;34
+4659;cÃ³rdoba, cÃ³rdoba, argentina;34
 4660;san felice - segrate milano, valle d`aosta, italy;NULL
 4661;trujillo alto, puerto rico, usa;51
 4662;palermo, sicilia, italy;NULL
 4663;mantova, lombardia, italy;NULL
 4664;milano, lombardia, italy;28
 4665;framingham, massachusetts, usa;23
-4666;curitiba, paraná, brazil;30
-4667;münchen, bayern, germany;31
+4666;curitiba, paranÃ¡, brazil;30
+4667;mÃ¼nchen, bayern, germany;31
 4668;hamburg, hamburg, germany;NULL
 4669;victoria, british columbia,;NULL
 4670;santiago, metropolitana, chile;26
@@ -4677,7 +4677,7 @@ User-ID;Location;Age
 4676;vienna, n/a, austria;33
 4677;aberdeen, scotland, united kingdom;NULL
 4678;ny, new york, usa;76
-4679;la línea, cádiz, spain;26
+4679;la lÃ­nea, cÃ¡diz, spain;26
 4680;roma, lazio, italy;NULL
 4681;xi`an, shaanxi, china;NULL
 4682;ickleton, england, united kingdom;44
@@ -4709,7 +4709,7 @@ User-ID;Location;Age
 4708;valencia, comunidad valenciana, spain;25
 4709;roma, lazio, italy;NULL
 4710;coazze, piemonte, italy;43
-4711;würzburg, bayern, germany;28
+4711;wÃ¼rzburg, bayern, germany;28
 4712;genova, liguria, italy;NULL
 4713;paris, ile de france (paris), france;33
 4714;mentor, ohio, usa;22
@@ -4724,7 +4724,7 @@ User-ID;Location;Age
 4723;milano, lombardia, italy;NULL
 4724;oldenburg, niedersachsen, germany;NULL
 4725;cassolnovo, lombardia, italy;31
-4726;goiânia, goiás, brazil;24
+4726;goiÃ¢nia, goiÃ¡s, brazil;24
 4727;torino, piemonte, italy;NULL
 4728;modena, n/a, italy;NULL
 4729;roma, lazio, italy;NULL
@@ -4761,7 +4761,7 @@ User-ID;Location;Age
 4760;firenze, toscana, italy;NULL
 4761;prato, toscana, italy;NULL
 4762;genoa, italy, italy;NULL
-4763;nigrán, pontevedra, spain;22
+4763;nigrÃ¡n, pontevedra, spain;22
 4764;orangevale, california, usa;NULL
 4765;southfield, michigan, usa;NULL
 4766;chatham, ontario, canada;NULL
@@ -4796,9 +4796,9 @@ User-ID;Location;Age
 4795;rochester, new york, usa;18
 4796;cardiff, wales, united kingdom;NULL
 4797;bristol, connecticut, usa;19
-4798;tegucigalpa, mdc, francisco morazán, honduras;NULL
+4798;tegucigalpa, mdc, francisco morazÃ¡n, honduras;NULL
 4799;keswick, cumbria, united kingdom;NULL
-4800;setúbal, n/a, portugal;21
+4800;setÃºbal, n/a, portugal;21
 4801;bedford, england, united kingdom;NULL
 4802;london, england, united kingdom;28
 4803;nashville, tennessee, usa;23
@@ -4822,9 +4822,9 @@ User-ID;Location;Age
 4821;lagrangeville, new york, usa;44
 4822;senigallia, marche, italy;NULL
 4823;van nuys, california, usa;37
-4824;são paulo, são paulo, brazil;27
+4824;sÃ£o paulo, sÃ£o paulo, brazil;27
 4825;albufeira, faro/algarve, portugal;28
-4826;ampsin, liège, belgium;27
+4826;ampsin, liÃ¨ge, belgium;27
 4827;christchurch, canterbury, new zealand;40
 4828;llodio, alava, spain;22
 4829;jackson, mississippi, usa;NULL
@@ -4858,10 +4858,10 @@ User-ID;Location;Age
 4857;marietta, georgia, georgia;NULL
 4858;missoula, montana, usa;45
 4859;barreiro, barreiro, portugal;NULL
-4860;pau, pyrénées atlantiques, france;27
+4860;pau, pyrÃ©nÃ©es atlantiques, france;27
 4861;santo domingo, dc, dominica;48
 4862;belo horizonte, minas gerais, brazil;28
-4863;ribeirão preto, alaska, brazil;23
+4863;ribeirÃ£o preto, alaska, brazil;23
 4864;atascadero, california, usa;30
 4865;porto, porto, portugal;33
 4866;beaver falls, pennsylvania, usa;NULL
@@ -4873,7 +4873,7 @@ User-ID;Location;Age
 4872;genova, liguria, italy;NULL
 4873;rio de janeiro, rio de janeiro, brazil;NULL
 4874;alcala de henares, madrid, spain;31
-4875;trondheim, sør-trøndelag, norway;23
+4875;trondheim, sÃ¸r-trÃ¸ndelag, norway;23
 4876;macamic, quebec, canada;11
 4877;union, kentucky, usa;NULL
 4878;mt.pleasant, south carolina, usa;NULL
@@ -4883,13 +4883,13 @@ User-ID;Location;Age
 4882;southampton, england, united kingdom;26
 4883;parma, emilia romagna, italy;20
 4884;aptos, california, usa;NULL
-4885;valència, valència, spain;20
+4885;valÃ¨ncia, valÃ¨ncia, spain;20
 4886;getxo, vizcaya, spain;41
 4887;apex, north carolina, usa;NULL
 4888;geneva, geneva, switzerland;49
 4889;dunedin, otago, new zealand;NULL
 4890;atascadero, california, usa;13
-4891;hahnstätten, rheinland-pfalz, germany;24
+4891;hahnstÃ¤tten, rheinland-pfalz, germany;24
 4892;singapore, n/a, singapore;NULL
 4893;yantai, shan dong, china;NULL
 4894;sacramento, california, usa;15
@@ -4908,7 +4908,7 @@ User-ID;Location;Age
 4907;adelaide, south australia, australia;40
 4908;singapore, singapore, singapore;35
 4909;london, england, united kingdom;31
-4910;estepona, málaga, spain;36
+4910;estepona, mÃ¡laga, spain;36
 4911;copenhagen, n/a, denmark;NULL
 4912;overland park, kansas, usa;NULL
 4913;dallas, texas, usa;39
@@ -4921,7 +4921,7 @@ User-ID;Location;Age
 4920;chicago, illinois, usa;NULL
 4921;houston, texas, usa;NULL
 4922;haywards heath, england, united kingdom;NULL
-4923;são paulo, são paulo, brazil;29
+4923;sÃ£o paulo, sÃ£o paulo, brazil;29
 4924;edinburgh, midlothian, united kingdom;NULL
 4925;moodiesburn, scotland, united kingdom;30
 4926;london, england, united kingdom;45
@@ -4932,7 +4932,7 @@ User-ID;Location;Age
 4931;burgum, friesland, netherlands, netherlands;NULL
 4932;culver, indiana, usa;NULL
 4933;moeville, minnesota, usa;33
-4934;umeå, n/a, sweden;NULL
+4934;umeÃ¥, n/a, sweden;NULL
 4935;madrid, madrid, spain;36
 4936;alexandria, virginia, usa;37
 4937;melbourne, victoria, australia;NULL
@@ -4957,7 +4957,7 @@ User-ID;Location;Age
 4956;rome, lazio, italy;NULL
 4957;austin, texas, usa;NULL
 4958;berkeley, california, usa;NULL
-4959;concepción, n/a, chile;32
+4959;concepciÃ³n, n/a, chile;32
 4960;belo horizonte, minas gerais, bulgaria;61
 4961;irving, texas, usa;43
 4962;zanesville, ohio, usa;NULL
@@ -4966,14 +4966,14 @@ User-ID;Location;Age
 4965;savage, minnesota, usa;NULL
 4966;monte grande, buenos aires, argentina;35
 4967;portland, oregon, usa;NULL
-4968;concepción, n/a, chile;32
+4968;concepciÃ³n, n/a, chile;32
 4969;, ,;30
 4970;olympia, washington, usa;18
 4971;center, missouri, usa;NULL
 4972;tuilla de langreo, asturias, spain;26
 4973;toronto, ontario, canada;29
 4974;maple city, michigan, usa;NULL
-4975;monterrey, nuevo león, mexico;NULL
+4975;monterrey, nuevo leÃ³n, mexico;NULL
 4976;bothell, washington, usa;NULL
 4977;santa barbara, california, usa;NULL
 4978;holland, michigan, usa;NULL
@@ -5002,7 +5002,7 @@ User-ID;Location;Age
 5001;inverness, california, usa;NULL
 5002;milano, milano, italy;NULL
 5003;snohomish, washington, usa;NULL
-5004;valència, país valencià, spain;23
+5004;valÃ¨ncia, paÃ­s valenciÃ , spain;23
 5005;olesa de montserrat, barcelona, spain;17
 5006;dayton, washington, usa;20
 5007;tonbridge, england, united kingdom;14
@@ -5030,7 +5030,7 @@ User-ID;Location;Age
 5029;san antonio, tx, usa;26
 5030;orleans, ontario, canada;NULL
 5031;urbana, illinois, usa;20
-5032;québec, quebec, canada;18
+5032;quÃ©bec, quebec, canada;18
 5033;porto alegre, rio grande do sul, brazil;32
 5034;carlisle, pennsylvania, usa;21
 5035;schertz, texas, usa;42
@@ -5090,7 +5090,7 @@ User-ID;Location;Age
 5089;wroclaw, dolny slask, poland;32
 5090;istanbul, yesilyurt, turkey;30
 5091;swieqi, n/a, malta;NULL
-5092;santiago, regiòn metropolitana, chile;40
+5092;santiago, regiÃ²n metropolitana, chile;40
 5093;trondheim, ,;40
 5094;snellville, georgia, usa;29
 5095;marratxi, mallorca, spain;31
@@ -5101,9 +5101,9 @@ User-ID;Location;Age
 5100;boise, idaho, usa;36
 5101;montreal, quebec, canada;NULL
 5102;madrid, madrid, spain;31
-5103;mölndal, alabama, sweden;NULL
+5103;mÃ¶lndal, alabama, sweden;NULL
 5104;lugano, n/a, switzerland;22
-5105;móstoles, madrid, spain;30
+5105;mÃ³stoles, madrid, spain;30
 5106;porto, porto, portugal;24
 5107;singapore, singapore, singapore;32
 5108;coimbra, coimbra, portugal;20
@@ -5113,8 +5113,8 @@ User-ID;Location;Age
 5112;"coimbatore, \n/a\"", india""";NULL
 5113;roswell, new mexico, usa;41
 5114;new york, new york, usa;41
-5115;sevilla, andalucía, spain;36
-5116;tórshavn, n/a, faroe islands;NULL
+5115;sevilla, andalucÃ­a, spain;36
+5116;tÃ³rshavn, n/a, faroe islands;NULL
 5117;zaragoza, zaragoza, spain;24
 5118;torre del greco, campania, italy;NULL
 5119;wackernheim, reinland-pfalz, germany;NULL
@@ -5128,7 +5128,7 @@ User-ID;Location;Age
 5127;castelnovo monti (re), emilia romagna, italy;33
 5128;zaragoza, aragon, spain;24
 5129;la laguna, santa cruz de tenerife, spain;35
-5130;zürich, n/a, switzerland;37
+5130;zÃ¼rich, n/a, switzerland;37
 5131;san francisco, california, usa;NULL
 5132;barcelona, n/a, spain;46
 5133;barcelona, barcelona, spain;55
@@ -5153,7 +5153,7 @@ User-ID;Location;Age
 5152;stephanskirchen, bayern, germany;50
 5153;matosinhos, porto, portugal;31
 5154;irvine, california, usa;NULL
-5155;savigné l`évèque, pays de la loire, france;23
+5155;savignÃ© l`Ã©vÃ¨que, pays de la loire, france;23
 5156;tunbridge wells, kent, united kingdom;NULL
 5157;murcia, murcia, spain;25
 5158;lyon, rhone, france;21
@@ -5193,16 +5193,16 @@ User-ID;Location;Age
 5192;santiago del estero, n/a, argentina;17
 5193;genova, liguria, italy;25
 5194;benidorm, comunidad valenciana, spain;20
-5195;münster, nordrhein-westfalen, germany;26
+5195;mÃ¼nster, nordrhein-westfalen, germany;26
 5196;dudley, massachusetts, usa;NULL
 5197;catonsville, maryland, usa;41
 5198;san diego, california, usa;NULL
 5199;piacenza, emilia romagna, italy;31
 5200;berlin, berlin, germany;NULL
-5201;loulé, algarve, portugal;NULL
+5201;loulÃ©, algarve, portugal;NULL
 5202;s. lucia uzzano, toscana, italy;31
 5203;tehkummah, ontario, canada;56
-5204;lyon, rhône-alpes, france;24
+5204;lyon, rhÃ´ne-alpes, france;24
 5205;tring, england, united kingdom;70
 5206;guadalajara, guadalajara, spain;18
 5207;indianapolis, indiana, usa;34
@@ -5289,7 +5289,7 @@ User-ID;Location;Age
 5288;hockessin, delaware, usa;31
 5289;dunwoody, georgia, usa;NULL
 5290;victoria, british columbia, canada;NULL
-5291;jerez, cádiz, spain;24
+5291;jerez, cÃ¡diz, spain;24
 5292;lahore, punjab, pakistan;23
 5293;cambridge, england, united kingdom;34
 5294;montreal, quebec, canada;22
@@ -5319,7 +5319,7 @@ User-ID;Location;Age
 5318;san diego, california, usa;NULL
 5319;king`s lynn, england, united kingdom;NULL
 5320;boston, massachusetts, usa;NULL
-5321;banská bystrica, n/a, slovakia;24
+5321;banskÃ¡ bystrica, n/a, slovakia;24
 5322;madrid, madrid, spain;49
 5323;east quogue, new york, usa;NULL
 5324;guildford, surrey, united kingdom;31
@@ -5348,7 +5348,7 @@ User-ID;Location;Age
 5347;burnaby, british columbia, canada;24
 5348;n/a, n/a, ireland;37
 5349;sassari, sardegna, italy;NULL
-5350;köln, nordrhein-westfalen, germany;20
+5350;kÃ¶ln, nordrhein-westfalen, germany;20
 5351;new plymouth, taranaki, new zealand;74
 5352;lisboa, lisboa, portugal;NULL
 5353;esslingen, baden wuerttenberg, germany;48
@@ -5362,9 +5362,9 @@ User-ID;Location;Age
 5361;three rivers, michigan, usa;72
 5362;viterbo, lazio, italy;39
 5363;london, england, united kingdom;26
-5364;köln, berlin, germany;24
+5364;kÃ¶ln, berlin, germany;24
 5365;andalo, trentino alto adige, italy;22
-5366;barcelona, cataluña, spain;37
+5366;barcelona, cataluÃ±a, spain;37
 5367;cobden, victoria, australia;NULL
 5368;milan, lombardia, italy;NULL
 5369;vineland, new jersey, usa;19
@@ -5453,7 +5453,7 @@ User-ID;Location;Age
 5452;reseda, california, usa;26
 5453;melbourne, victoria, australia;NULL
 5454;sydney, new south wales,;18
-5455;avilés, asturias, spain;22
+5455;avilÃ©s, asturias, spain;22
 5456;barcelona, catalunya, spain;29
 5457;scranton, pennsylvania, usa;15
 5458;adelaide, south australia, australia;NULL
@@ -5479,7 +5479,7 @@ User-ID;Location;Age
 5478;jonesboro, arkansas, usa;27
 5479;statesboro, georgia, usa;27
 5480;diamond bar, california, usa;36
-5481;leinì, piemonte, italy;22
+5481;leinÃ¬, piemonte, italy;22
 5482;firenze, toscana, italy;NULL
 5483;bayan lepas, penang, malaysia;20
 5484;viimsi, n/a, estonia;23
@@ -5610,7 +5610,7 @@ User-ID;Location;Age
 5609;oradea, bihor, romania;25
 5610;bucuresti, n/a, romania;NULL
 5611;kuala lumpur, federal territory, malaysia;27
-5612;são paulo, são paulo, brazil;25
+5612;sÃ£o paulo, sÃ£o paulo, brazil;25
 5613;stockton, california, usa;42
 5614;felgueiras, porto, portugal;NULL
 5615;torino, piemonte, italy;NULL
@@ -5620,7 +5620,7 @@ User-ID;Location;Age
 5619;paris, n/a, france;52
 5620;paris, n/a, france;26
 5621;leipzig, sachsen, germany;40
-5622;são paulo, são paulo, brazil;19
+5622;sÃ£o paulo, sÃ£o paulo, brazil;19
 5623;toulouse, n/a, france;23
 5624;wuxi, jiangsu province, china;23
 5625;el centro, california, usa;NULL
@@ -5632,7 +5632,7 @@ User-ID;Location;Age
 5631;detroit, michigan, usa;NULL
 5632;oradea, romania, romania;31
 5633;limoges, limousin, france;31
-5634;logroño, la rioja, spain;25
+5634;logroÃ±o, la rioja, spain;25
 5635;new york, new york, usa;26
 5636;lynchburg, virginia, usa;NULL
 5637;gold coast, queensland, australia;24
@@ -5652,7 +5652,7 @@ User-ID;Location;Age
 5651;worcester, massachusetts, usa;64
 5652;baton rouge, louisiana, usa;NULL
 5653;sydney, new south wales, australia;13
-5654;málaga, andalucía, spain;28
+5654;mÃ¡laga, andalucÃ­a, spain;28
 5655;adelaide, south australia, australia;53
 5656;jhang sadar, punjab, pakistan;18
 5657;tehran, tehran, iran;39
@@ -5670,7 +5670,7 @@ User-ID;Location;Age
 5669;chicago, illinois, usa;NULL
 5670;paris, 9eme arrond., france;38
 5671;sesto san giovanni, lombardia, italy;NULL
-5672;angoulême, charente, france;21
+5672;angoulÃªme, charente, france;21
 5673;portland, oregon, usa;NULL
 5674;jackson, new jersey, usa;15
 5675;radebeul, sachsen, germany;22
@@ -5680,7 +5680,7 @@ User-ID;Location;Age
 5679;madrid, madrid, spain;41
 5680;brookfield, wisconsin, usa;NULL
 5681;odivelas, lisbon, portugal;22
-5682;moaña, galicia, spain;21
+5682;moaÃ±a, galicia, spain;21
 5683;lancaster, pennsylvania, usa;16
 5684;mittweida, sachsen, germany;NULL
 5685;scarborough, ontario, canada;15
@@ -5763,7 +5763,7 @@ User-ID;Location;Age
 5762;warsaw, n/a, poland;31
 5763;london, s e england, united kingdom;40
 5764;roma, lazio, italy;NULL
-5765;vilanova i la geltrú, catalunya, spain;16
+5765;vilanova i la geltrÃº, catalunya, spain;16
 5766;powder springs, georgia, usa;40
 5767;helsinki, na, finland;NULL
 5768;boise, idaho, usa;NULL
@@ -5820,7 +5820,7 @@ User-ID;Location;Age
 5819;lleida, catalonia, spain;32
 5820;bismarck, north dakota, usa;12
 5821;bilbao, bizkaia, spain;36
-5822;valladolid, castilla y león, spain;29
+5822;valladolid, castilla y leÃ³n, spain;29
 5823;baton rouge, louisiana, usa;57
 5824;auckland, n/a, new zealand;41
 5825;/, /, slovenia;NULL
@@ -5836,14 +5836,14 @@ User-ID;Location;Age
 5835;qualicum beach, british columbia, canada;NULL
 5836;lisbon, estremadura, portugal;21
 5837;pistoia, toscana, italy;NULL
-5838;wroc³aw, n/a, poland;19
-5839;guimarães, basilicata, portugal;34
+5838;wrocÂ³aw, n/a, poland;19
+5839;guimarÃ£es, basilicata, portugal;34
 5840;936 southard street, new jersey, usa;20
 5841;duisburg, nordrhein-westfalen, germany;NULL
 5842;padova, veneto, italy;43
 5843;glenwood, illinois, usa;20
 5844;kuala lumpur, wilayah persekutuan, malaysia;29
-5845;vale da serra, santarém, portugal;22
+5845;vale da serra, santarÃ©m, portugal;22
 5846;dunedin, n/a, new zealand;24
 5847;lexington, massachusetts, usa;20
 5848;mengibar, jaen, spain;25
@@ -5948,7 +5948,7 @@ User-ID;Location;Age
 5947;newcastle-u-lyme, staffordshire, united kingdom;45
 5948;dallas, texas, usa;NULL
 5949;porto, porto, portugal;29
-5950;barcelona, cataluña, spain;22
+5950;barcelona, cataluÃ±a, spain;22
 5951;barcelona, barcelona, spain;48
 5952;ancona, marche, italy;20
 5953;quezon city, n/a, philippines;NULL
@@ -5964,7 +5964,7 @@ User-ID;Location;Age
 5963;san diego, california, usa;38
 5964;needham, massachusetts, usa;26
 5965;south yarra, victoria, australia;31
-5966;görlitz, sachsen, germany;NULL
+5966;gÃ¶rlitz, sachsen, germany;NULL
 5967;frankfurt, hessen, germany;NULL
 5968;copenhagen k, n/a, denmark;38
 5969;heuchelheim, hessen, germany;21
@@ -6160,7 +6160,7 @@ User-ID;Location;Age
 6159;singapore, n/a, singapore;NULL
 6160;brisbane, queensland, australia;14
 6161;wonsocket, rhode island, usa;26
-6162;ýzmir, n/a, turkey;25
+6162;Ã½zmir, n/a, turkey;25
 6163;seville, n, spain;NULL
 6164;xiayi, henan provine, china;19
 6165;lincoln park, michigan, usa;31
@@ -6264,9 +6264,9 @@ User-ID;Location;Age
 6263;hannover, , germany;19
 6264;plantation, florida, usa;53
 6265;polk city, florida, usa;69
-6266;sevilla, andalucía, spain;20
+6266;sevilla, andalucÃ­a, spain;20
 6267;fort collins, colorado, usa;NULL
-6268;wolfenbüttel, niedersachsen, germany;NULL
+6268;wolfenbÃ¼ttel, niedersachsen, germany;NULL
 6269;barcelona, barcelona, spain;24
 6270;rosario, santa fe, argentina;24
 6271;lansing, michigan, usa;53
@@ -6278,9 +6278,9 @@ User-ID;Location;Age
 6277;milano, lombardia, italy;31
 6278;porto, n, portugal;NULL
 6279;dunblane, scotland, united kingdom;51
-6280;a coruña, , spain;46
+6280;a coruÃ±a, , spain;46
 6281;pisa, toscana, italy;24
-6282;tübingen, baden-württemberg, germany;NULL
+6282;tÃ¼bingen, baden-wÃ¼rttemberg, germany;NULL
 6283;oakland, california, usa;46
 6284;beja, baixo-alentejo, portugal;40
 6285;river john, nova scotia, canada;70
@@ -6314,12 +6314,12 @@ User-ID;Location;Age
 6313;mexico, n/a, mexico;35
 6314;la grande, oregon, usa;20
 6315;santiago, santiago, chile;27
-6316;cáceres, extremadura, spain;22
+6316;cÃ¡ceres, extremadura, spain;22
 6317;sevilla, andalucia, spain;26
 6318;ann arbor, michigan, usa;24
 6319;bologna, emilia romagna, italy;35
 6320;sarajevo, alabama, bosnia and herzegovina;28
-6321;köln, nordrhein-westfalen, germany;40
+6321;kÃ¶ln, nordrhein-westfalen, germany;40
 6322;casale cremasco, yukon territory, italy;NULL
 6323;wilmington, north carolina, usa;35
 6324;reinbek, schleswig-holstein, germany;46
@@ -6354,7 +6354,7 @@ User-ID;Location;Age
 6353;waipahu, hawaii, usa;32
 6354;busan, n/a, south korea;NULL
 6355;boulogne sur mer, england, france;33
-6356;nürtingen, baden-wuerttemberg, germany;29
+6356;nÃ¼rtingen, baden-wuerttemberg, germany;29
 6357;st.gallen, st.gallen, switzerland;NULL
 6358;dearborn, michigan, usa;NULL
 6359;madrid, madrid, spain;21
@@ -6371,7 +6371,7 @@ User-ID;Location;Age
 6370;croydon, victoria, australia;NULL
 6371;alnwick, england, united kingdom;55
 6372;chicago, illinois, usa;30
-6373;cañas, guanacaste, costa rica;33
+6373;caÃ±as, guanacaste, costa rica;33
 6374;aarschot, vlaams-brabant, belgium;30
 6375;viterbo, lazio, italy;NULL
 6376;omaha, nebraska, usa;NULL
@@ -6407,9 +6407,9 @@ User-ID;Location;Age
 6406;seattle, washington, usa;NULL
 6407;paris, ile de france, france;26
 6408;melbourne, victoria, australia;NULL
-6409;león, n/a, spain;34
+6409;leÃ³n, n/a, spain;34
 6410;garmisch-partenkirchen, bayern, germany;61
-6411;lyon, rhône, france;17
+6411;lyon, rhÃ´ne, france;17
 6412;firenze, toscana, italy;29
 6413;hamburg, hamburg, germany;NULL
 6414;getxo, vizcaya, spain;58
@@ -6445,7 +6445,7 @@ User-ID;Location;Age
 6444;vila franca de xira, n/a, portugal;29
 6445;paris, paris, france;29
 6446;englewood, colorado, usa;57
-6447;algeciras, cádiz, spain;31
+6447;algeciras, cÃ¡diz, spain;31
 6448;galicia, galicia, spain;21
 6449;amberg, bayern, germany;26
 6450;vancouver, british columbia, canada;26
@@ -6497,7 +6497,7 @@ User-ID;Location;Age
 6496;st. louis, missouri, usa;39
 6497;plant city, florida, usa;NULL
 6498;newark, new jersey, usa;39
-6499;tüscherz, berne, switzerland;NULL
+6499;tÃ¼scherz, berne, switzerland;NULL
 6500;manchester, connecticut, usa;NULL
 6501;monterey, california, usa;25
 6502;portland, oregon, usa;35
@@ -6505,7 +6505,7 @@ User-ID;Location;Age
 6504;hilo, hawaii, usa;59
 6505;topeka, kansas, usa;56
 6506;chicago, illinois, usa;NULL
-6507;san sebastián, guipúzcoa, spain;26
+6507;san sebastiÃ¡n, guipÃºzcoa, spain;26
 6508;thornbury, victoria, australia;49
 6509;munich, bayern, germany;37
 6510;temple terrace, florida, usa;33
@@ -6546,7 +6546,7 @@ User-ID;Location;Age
 6545;winnipeg, manitoba, canada;25
 6546;charlotte, north carolina, usa;NULL
 6547;riyadh, n/a, saudi arabia;44
-6548;pasto, nariño, colombia;58
+6548;pasto, nariÃ±o, colombia;58
 6549;maryville, tennessee, usa;33
 6550;southampton, hampshire, united kingdom;46
 6551;barcelona, catalunya, spain;25
@@ -6558,12 +6558,12 @@ User-ID;Location;Age
 6557;elmswell, england, united kingdom;50
 6558;schiltigheim, france, alsace, bas rhin, france;31
 6559;columbus, ohio, usa;38
-6560;madrid, españa, spain;33
-6561;madrid, españa, spain;33
-6562;jaén, jaén, spain;33
+6560;madrid, espaÃ±a, spain;33
+6561;madrid, espaÃ±a, spain;33
+6562;jaÃ©n, jaÃ©n, spain;33
 6563;burien, washington, usa;31
 6564;lisboa, estremadura, portugal;37
-6565;umeå, västerbotten, sweden;NULL
+6565;umeÃ¥, vÃ¤sterbotten, sweden;NULL
 6566;port angeles, washington, usa;NULL
 6567;brooklyn, new york, usa;26
 6568;ojai, california, usa;NULL
@@ -6616,7 +6616,7 @@ User-ID;Location;Age
 6615;romano, lombardia, italy;NULL
 6616;split, n/a, croatia;22
 6617;enid, oklahoma, usa;NULL
-6618;logroño, la rioja, spain;25
+6618;logroÃ±o, la rioja, spain;25
 6619;pine lake, georgia, usa;NULL
 6620;minneapolis, minnesota, usa;46
 6621;moscow, moscow region, russia;NULL
@@ -6641,10 +6641,10 @@ User-ID;Location;Age
 6640;norderstedt, schleswig-holstein, germany;NULL
 6641;wien, n/a, austria;40
 6642;springfield, missouri, usa;34
-6643;köln, nordrhein-westfalen, germany;NULL
+6643;kÃ¶ln, nordrhein-westfalen, germany;NULL
 6644;ahlen, nordrhein-westfalen, germany;NULL
 6645;bucharest, bucharest, romania;19
-6646;borås, n/a, sweden;24
+6646;borÃ¥s, n/a, sweden;24
 6647;monsey, new york, usa;NULL
 6648;hilton head, south carolina, usa;70
 6649;atlanta, texas, usa;50
@@ -6652,7 +6652,7 @@ User-ID;Location;Age
 6651;lawrence, kansas, usa;22
 6652;frankfort, kentucky, usa;41
 6653;newport news, virginia, usa;26
-6654;nordheim (württ), baden-wuerttemberg, germany;65
+6654;nordheim (wÃ¼rtt), baden-wuerttemberg, germany;65
 6655;enschede, overijssel, netherlands;22
 6656;cartes, cantabria, spain;39
 6657;schenectady, new york, usa;NULL
@@ -6690,7 +6690,7 @@ User-ID;Location;Age
 6689;east lansing, michigan, usa;NULL
 6690;hammond, louisiana, usa;18
 6691;lemgo, nordrhein-westfalen, germany;17
-6692;baindt, baden-württemberg, germany;17
+6692;baindt, baden-wÃ¼rttemberg, germany;17
 6693;dallas, texas, usa;32
 6694;c., calabria, italy;NULL
 6695;canberra, australian capital territory, australia;22
@@ -6710,7 +6710,7 @@ User-ID;Location;Age
 6709;victoria, british columbia, canada;18
 6710;tulsa, oklahoma, usa;30
 6711;london, england, united kingdom;19
-6712;78126 königsfeld, baden-wuerttemberg, germany;104
+6712;78126 kÃ¶nigsfeld, baden-wuerttemberg, germany;104
 6713;la quinta, california, usa;NULL
 6714;preganziol, veneto, italy;34
 6715;las rozas, manitoba, spain;25
@@ -6737,15 +6737,15 @@ User-ID;Location;Age
 6736;cernusco sul naviglio, lombardia, italy;42
 6737;seattle, washington, usa;NULL
 6738;south portland,, maine, usa;69
-6739;são paulo, sp, brazil;34
-6740;san josé, n/a, costa rica;51
+6739;sÃ£o paulo, sp, brazil;34
+6740;san josÃ©, n/a, costa rica;51
 6741;whitehorse, yukon territory, canada;NULL
 6742;tianjin, tianjin, china;23
 6743;edmonton, alberta, canada;53
 6744;pisa, toscana, italy;19
-6745;lund, skåne, sweden;24
+6745;lund, skÃ¥ne, sweden;24
 6746;laurel, maryland, usa;NULL
-6747;éîûú, ¹ã¶«, öð¹ú;23
+6747;Ã©Ã®Ã»Ãº, Â¹Ã£Â¶Â«, Ã¶Ã°Â¹Ãº;23
 6748;lisle, illinois, usa;55
 6749;new hyde park, new york, usa;NULL
 6750;alvito, beja, portugal;37
@@ -6816,7 +6816,7 @@ User-ID;Location;Age
 6815;indianapolis, indiana, usa;24
 6816;sydney, new south wales, australia;14
 6817;pisa, toscana, italy;31
-6818;gavà, barcelona, españa;NULL
+6818;gavÃ , barcelona, espaÃ±a;NULL
 6819;almaty, kazakstan, russia;NULL
 6820;falls church, virginia, usa;46
 6821;cardiff, wales, united kingdom;31
@@ -6855,7 +6855,7 @@ User-ID;Location;Age
 6854;fort pierce, florida, usa;NULL
 6855;mortagne sur sevre, pays de loire, france;41
 6856;cambridge, england, united kingdom;22
-6857;québec, quebec, canada;21
+6857;quÃ©bec, quebec, canada;21
 6858;ottawa, ontario, canada;21
 6859;rockville, maryland, usa;23
 6860;eastpointe, michigan, usa;29
@@ -6888,7 +6888,7 @@ User-ID;Location;Age
 6887;itajuba, baden-wuerttemberg, brazil;21
 6888;everett, massachusetts, usa;30
 6889;vic, barcelona, spain;20
-6890;alzira, valència, spain;22
+6890;alzira, valÃ¨ncia, spain;22
 6891;rennes, bretagne, france;NULL
 6892;leiderdorp, zuid holland, netherlands;NULL
 6893;cartersville, georgia, usa;20
@@ -6913,7 +6913,7 @@ User-ID;Location;Age
 6912;reston, virginia, usa;NULL
 6913;charlottesville, virginia, usa;NULL
 6914;bridgeview, illinois, usa;27
-6915;agüimes, canarias, spain;37
+6915;agÃ¼imes, canarias, spain;37
 6916;paris, n/a, france;15
 6917;boise, idaho, usa;39
 6918;boyd, texas, usa;NULL
@@ -6932,7 +6932,7 @@ User-ID;Location;Age
 6931;fort collins, colorado, usa;44
 6932;viseu, n/a, portugal;35
 6933;barcelona, catalunya, spain;36
-6934;bilbao, españa, spain;20
+6934;bilbao, espaÃ±a, spain;20
 6935;cartagena, murcia, spain;20
 6936;madrid, madrid, spain;27
 6937;mondragon, euskadi, spain;51
@@ -6974,7 +6974,7 @@ User-ID;Location;Age
 6973;konstanz, baden-wuerttemberg, germany;58
 6974;saco, maine, usa;36
 6975;victoria, british columbia, canada;NULL
-6976;sardoal, santarém, portugal;45
+6976;sardoal, santarÃ©m, portugal;45
 6977;kota bharu, abruzzo, malaysia;NULL
 6978;horsham, england, united kingdom;34
 6979;windsor, ontario, canada;36
@@ -7001,9 +7001,9 @@ User-ID;Location;Age
 7000;beaconsfield, quebec, canada;14
 7001;caldwell, idaho, usa;20
 7002;branch, louisiana, usa;32
-7003;dübendorf, zürich, switzerland;44
+7003;dÃ¼bendorf, zÃ¼rich, switzerland;44
 7004;el cajon, california, usa;14
-7005;århus, n/a, denmark;NULL
+7005;Ã¥rhus, n/a, denmark;NULL
 7006;edinburgh, scotland, united kingdom;NULL
 7007;columbiana, alabama, usa;NULL
 7008;albuquerque, new mexico, usa;NULL
@@ -7026,7 +7026,7 @@ User-ID;Location;Age
 7025;newark, delaware, usa;NULL
 7026;calgary, alberta, canada;NULL
 7027;virden, illinois, usa;16
-7028;münchen, bayern, germany;29
+7028;mÃ¼nchen, bayern, germany;29
 7029;cleveland, ohio, usa;17
 7030;ashland, kentucky, usa;25
 7031;summit, new jersey, usa;NULL
@@ -7074,7 +7074,7 @@ User-ID;Location;Age
 7073;raleigh, north carolina,;47
 7074;kalamazoo, michigan, usa;28
 7075;ladson, south carolina, usa;NULL
-7076;córdoba, córdoba, argentina;47
+7076;cÃ³rdoba, cÃ³rdoba, argentina;47
 7077;milford, connecticut, usa;24
 7078;brookline, new hampshire, usa;NULL
 7079;aurora, ontario, canada;NULL
@@ -7097,7 +7097,7 @@ User-ID;Location;Age
 7096;elche, alicante, spain;31
 7097;arruda dos vinhos, n/a, portugal;33
 7098;jombang, east java, indonesia;NULL
-7099;são josé dos campos, são paulo, brazil;22
+7099;sÃ£o josÃ© dos campos, sÃ£o paulo, brazil;22
 7100;deerfield, ohio, usa;NULL
 7101;orlando, florida, usa;52
 7102;sacramento, california, usa;47
@@ -7130,7 +7130,7 @@ User-ID;Location;Age
 7129;meriden, new hampshire, usa;NULL
 7130;carrboro, north dakota, usa;11
 7131;edinburgh, scotland, united kingdom;NULL
-7132;málaga, málaga, spain;44
+7132;mÃ¡laga, mÃ¡laga, spain;44
 7133;madrid, madrid, spain;28
 7134;bothell, washington, usa;23
 7135;avellino, campania, italy;27
@@ -7145,7 +7145,7 @@ User-ID;Location;Age
 7144;offenbach, hessen, germany;26
 7145;perth, western australia, australia;43
 7146;"hyderabad, \n/a\"", india""";21
-7147;camanducáia, minas gerais, brazil;NULL
+7147;camanducÃ¡ia, minas gerais, brazil;NULL
 7148;mendrisio, ticino, switzerland;NULL
 7149;powell, ohio, usa;NULL
 7150;gold canyon, arizona, usa;NULL
@@ -7161,7 +7161,7 @@ User-ID;Location;Age
 7160;fort atkinson, wisconsin, usa;24
 7161;milon keynes, buckinghamshire, united kingdom;16
 7162;schoolcraft, michigan, usa;NULL
-7163;córdoba, córdoba, spain;44
+7163;cÃ³rdoba, cÃ³rdoba, spain;44
 7164;bologna, emilia romagna, italy;NULL
 7165;madrid, , spain;48
 7166;como, lombardia, italy;NULL
@@ -7184,7 +7184,7 @@ User-ID;Location;Age
 7183;frederick, ,;NULL
 7184;zaragoza, aragon, spain;31
 7185;happy valley goose bay, newfoundland, canada;NULL
-7186;granada, andalucía, spain;28
+7186;granada, andalucÃ­a, spain;28
 7187;radstadt, salzburg, austria;57
 7188;athens, georgia, usa;NULL
 7189;pace, florida, usa;NULL
@@ -7209,7 +7209,7 @@ User-ID;Location;Age
 7208;lisboa, n/a, portugal;19
 7209;st. joseph, missouri, usa;40
 7210;rothesay, new brunswick, canada;NULL
-7211;münchen, bayern, germany;NULL
+7211;mÃ¼nchen, bayern, germany;NULL
 7212;san clemente, california, usa;NULL
 7213;orange, california, usa;NULL
 7214;dover, england, united kingdom;1
@@ -7261,7 +7261,7 @@ User-ID;Location;Age
 7260;somerville, massachusetts, usa;29
 7261;lawrence, ,;NULL
 7262;abingdon, virginia, usa;25
-7263;stockholm, södermanland, sweden;25
+7263;stockholm, sÃ¶dermanland, sweden;25
 7264;chicago, illinois, usa;44
 7265;savona, liguria, italy;65
 7266;niagara falls, new york, usa;NULL
@@ -7273,7 +7273,7 @@ User-ID;Location;Age
 7272;port of spain, none, trinidad and tobago;NULL
 7273;aveiro, beira litoral, portugal;25
 7274;barcelona, barcelona, spain;32
-7275;köln, nordrhein-westfalen, germany;22
+7275;kÃ¶ln, nordrhein-westfalen, germany;22
 7276;lusaka, n/a, zambia;36
 7277;palm coast, florida, usa;NULL
 7278;lynnwood, washington, usa;8
@@ -7291,7 +7291,7 @@ User-ID;Location;Age
 7290;nottingham, england, united kingdom;54
 7291;solingen, nordrhein-westfalen, germany;NULL
 7292;astoria, new york, usa;26
-7293;själevad, västernorrland, sweden;NULL
+7293;sjÃ¤levad, vÃ¤sternorrland, sweden;NULL
 7294;mansfield, massachusetts, usa;NULL
 7295;beverly, massachusetts, usa;NULL
 7296;clarkston, michigan, usa;NULL
@@ -7403,7 +7403,7 @@ User-ID;Location;Age
 7402;bohemia, new york, usa;NULL
 7403;terrell, texas, usa;14
 7404;cambridge, massachusetts, usa;NULL
-7405;helsingborg, skåne, sweden;NULL
+7405;helsingborg, skÃ¥ne, sweden;NULL
 7406;liebefeld, n/a, syria;37
 7407;ambler, pennsylvania, usa;NULL
 7408;london, england, united kingdom;NULL
@@ -7441,7 +7441,7 @@ User-ID;Location;Age
 7440;los osos, california, usa;25
 7441;north vancouver, british columbia, canada;19
 7442;sao paulo, sao paulo, brazil;19
-7443;münchen, bayern, germany;NULL
+7443;mÃ¼nchen, bayern, germany;NULL
 7444;ljubljana, slovenia, slovenia;NULL
 7445;mumbai, maharashtra, india;NULL
 7446;iowa city, iowa, usa;NULL
@@ -7488,7 +7488,7 @@ User-ID;Location;Age
 7487;norman, oklahoma, usa;NULL
 7488;heredia, heredia, costa rica;NULL
 7489;lisboa, lisboa, portugal;24
-7490;portimão, algarve, portugal;22
+7490;portimÃ£o, algarve, portugal;22
 7491;tampere, pirkanmaa, finland;22
 7492;qatif, n/a, saudi arabia;21
 7493;thrissur, kerala,;NULL
@@ -7500,7 +7500,7 @@ User-ID;Location;Age
 7499;santo tirso, n/a, portugal;45
 7500;bangkok, bangkok, thailand;20
 7501;university city, missouri, usa;35
-7502;madrid, españa, spain;37
+7502;madrid, espaÃ±a, spain;37
 7503;cologne, nordrhein-westfalen, germany;27
 7504;neu-isenburg, hessen, germany;37
 7505;wausau, wisconsin, usa;NULL
@@ -7514,7 +7514,7 @@ User-ID;Location;Age
 7513;pocatello, idaho, usa;NULL
 7514;fernandina beach, florida, usa;46
 7515;canberra, australian capital territory, australia;45
-7516;castellón, n/a, spain;26
+7516;castellÃ³n, n/a, spain;26
 7517;roseville, minnesota, usa;29
 7518;roma, lazio, italy;37
 7519;london, england, united kingdom;19
@@ -7546,7 +7546,7 @@ User-ID;Location;Age
 7545;zaragoza, aragon, spain;19
 7546;columbia, missouri, usa;NULL
 7547;leipzig, sachsen, germany;36
-7548;barcelona, cataluña, spain;25
+7548;barcelona, cataluÃ±a, spain;25
 7549;giessen, hessen, germany;NULL
 7550;oudenburg, west-vlaanderen,;21
 7551;dublin, ohio, usa;NULL
@@ -7658,7 +7658,7 @@ User-ID;Location;Age
 7657;bath, maine, usa;18
 7658;mesa, arizona, usa;42
 7659;bilbao, bizkaia, spain;22
-7660;sopelana, país vasco, spain;24
+7660;sopelana, paÃ­s vasco, spain;24
 7661;bensalem, pennsylvania, usa;21
 7662;hong kong, n/a,;NULL
 7663;pune, maharashtra, india;NULL
@@ -7718,7 +7718,7 @@ User-ID;Location;Age
 7717;brescia, lombardia, italy;NULL
 7718;carlisle, pennsylvania, usa;33
 7719;munich, ,;NULL
-7720;lyon, rhône, france;25
+7720;lyon, rhÃ´ne, france;25
 7721;adelaide, south australia, australia;NULL
 7722;eugene, oregon, usa;NULL
 7723;fenton, missouri, usa;NULL
@@ -7738,10 +7738,10 @@ User-ID;Location;Age
 7737;barcelona, catalunya, spain;0
 7738;zaragoza, alabama, spain;NULL
 7739;longwick, n/a, united kingdom;33
-7740;ponta delgada, açores, portugal;NULL
+7740;ponta delgada, aÃ§ores, portugal;NULL
 7741;ciudad invisible, provincia invisible, spain;NULL
 7742;calgary, alberta, canada;19
-7743;desamparados, san josé, costa rica;29
+7743;desamparados, san josÃ©, costa rica;29
 7744;pembroke pines, florida, usa;34
 7745;metro manila, n/a, philippines;NULL
 7746;columbia, south carolina, usa;NULL
@@ -7844,7 +7844,7 @@ User-ID;Location;Age
 7843;karachi, sindh, pakistan;41
 7844;phoenix, arizona, usa;24
 7845;lisboa, n/a, portugal;37
-7846;nürnberg, bayern, germany;NULL
+7846;nÃ¼rnberg, bayern, germany;NULL
 7847;atlanta, georgia, usa;NULL
 7848;ljubljana, n/a, slovenia;NULL
 7849;winnipeg, manitoba, canada;46
@@ -7898,7 +7898,7 @@ User-ID;Location;Age
 7897;pune, maharashtra, india;NULL
 7898;washington, dc, usa;20
 7899;belo horizonte, minas gerais, brazil;21
-7900;lübeck, schleswig-holstein, germany;19
+7900;lÃ¼beck, schleswig-holstein, germany;19
 7901;methuen, massachusetts, usa;21
 7902;monterotondo, lazio, italy;51
 7903;belgrave, victoria, australia;NULL
@@ -7909,7 +7909,7 @@ User-ID;Location;Age
 7908;ventura, california, usa;18
 7909;hopewell junction, new york, usa;56
 7910;el cajon, california, usa;49
-7911;méxico, mexico, mexico;48
+7911;mÃ©xico, mexico, mexico;48
 7912;chula vista, california, usa;32
 7913;mission hills, california, usa;43
 7914;barrie, ontario, canada;41
@@ -7929,7 +7929,7 @@ User-ID;Location;Age
 7928;durand, michigan, usa;39
 7929;lisboa, lisboa, portugal;56
 7930;vancouver, british columbia, canada;NULL
-7931;almada, feijó, portugal;19
+7931;almada, feijÃ³, portugal;19
 7932;lisboa, n/a, portugal;35
 7933;berlin, berlin, germany;26
 7934;victoria, british columbia, canada;30
@@ -7941,8 +7941,8 @@ User-ID;Location;Age
 7940;hope, new mexico, usa;24
 7941;carmel, california, usa;NULL
 7942;el cajon, california, usa;17
-7943;curitiba, paraná, brazil;1
-7944;fisterra, a coruña, spain;26
+7943;curitiba, paranÃ¡, brazil;1
+7944;fisterra, a coruÃ±a, spain;26
 7945;east windsor, new jersey, usa;59
 7946;braga, braga, portugal;19
 7947;rockville, maryland, usa;NULL
@@ -8000,7 +8000,7 @@ User-ID;Location;Age
 7999;vermilion, alberta, canada;36
 8000;gijon, asturias, spain;29
 8001;tucson, arizona, usa;NULL
-8002;são joão do estoril, são joão do estoril, portugal;31
+8002;sÃ£o joÃ£o do estoril, sÃ£o joÃ£o do estoril, portugal;31
 8003;red deer, alberta, canada;NULL
 8004;edinburgh, scotland, united kingdom;NULL
 8005;schenectady, new york, usa;17
@@ -8033,7 +8033,7 @@ User-ID;Location;Age
 8032;milano, lombardia, italy;NULL
 8033;chicago, illinois, usa;NULL
 8034;amsterdam, noord-holland, netherlands;31
-8035;campinas, são paulo, brazil;18
+8035;campinas, sÃ£o paulo, brazil;18
 8036;frankfurt, hessen, germany;NULL
 8037;wake forest, north carolina, usa;NULL
 8038;painesville township, ohio, usa;NULL
@@ -8158,7 +8158,7 @@ User-ID;Location;Age
 8157;austin, texas, usa;NULL
 8158;baton rouge, louisiana, usa;18
 8159;salina, kansas, usa;NULL
-8160;san fernando, cádiz, spain;32
+8160;san fernando, cÃ¡diz, spain;32
 8161;san diego, california, usa;NULL
 8162;caldas de reis, pontevedra, spain;24
 8163;albany, new york, usa;NULL
@@ -8188,7 +8188,7 @@ User-ID;Location;Age
 8187;bend, oregon, usa;NULL
 8188;san francisco, california, usa;NULL
 8189;denver, colorado, usa;24
-8190;düsseldorf, nordrhein-westfalen, germany;22
+8190;dÃ¼sseldorf, nordrhein-westfalen, germany;22
 8191;fort worth, texas, usa;25
 8192;cowden, illinois, usa;27
 8193;wrexham, wales, united kingdom;50
@@ -8327,7 +8327,7 @@ User-ID;Location;Age
 8326;gold coast, queensland, australia;14
 8327;spijkenisse, zuid-holland, netherlands;NULL
 8328;terrebonne, quebec, canada;36
-8329;überlingen, baden-wuerttemberg, germany;21
+8329;Ã¼berlingen, baden-wuerttemberg, germany;21
 8330;newcastle, thenorth, united kingdom;114
 8331;zurich, zurich, switzerland;30
 8332;hamburg, hamburg, germany;NULL
@@ -8352,12 +8352,12 @@ User-ID;Location;Age
 8351;singapore, singapore, singapore;NULL
 8352;caldas da rainha, leiria, portugal;30
 8353;novi sad, n/a, yugoslavia;22
-8354;são paulo, são paulo, brazil;40
+8354;sÃ£o paulo, sÃ£o paulo, brazil;40
 8355;murcia, n/a, spain;29
-8356;tarragona, cataluña, spain;26
+8356;tarragona, cataluÃ±a, spain;26
 8357;doha, n/a, qatar;NULL
 8358;muenchen, bavaria, germany;NULL
-8359;kutná hora, n/a, czech republic;NULL
+8359;kutnÃ¡ hora, n/a, czech republic;NULL
 8360;barcelona, catalunya, spain;52
 8361;melbourne, victoria, australia;23
 8362;los angeles, california, usa;28
@@ -8365,7 +8365,7 @@ User-ID;Location;Age
 8364;grand island, new york, usa;NULL
 8365;albany, california, usa;60
 8366;buenos aires, buenos aires, argentina;38
-8367;vila viçosa, vila viçosa, portugal;62
+8367;vila viÃ§osa, vila viÃ§osa, portugal;62
 8368;barcelona, catalonia, spain;22
 8369;brownsville, texas, usa;27
 8370;phoenix, arizona, usa;33
@@ -8380,7 +8380,7 @@ User-ID;Location;Age
 8379;barcelona, barcelona, spain;32
 8380;auburn, california, usa;19
 8381;bellevue, washington, usa;37
-8382;setúbal, n/a, portugal;20
+8382;setÃºbal, n/a, portugal;20
 8383;la jolla, california, usa;19
 8384;tonawanda, new york, usa;NULL
 8385;rheinberg, nordrhein-westfalen, germany;38
@@ -8390,7 +8390,7 @@ User-ID;Location;Age
 8389;belo horizonte, minas gerais, brazil;31
 8390;karachi, n/a, pakistan;30
 8391;ppppp, lllll, brazil;23
-8392;loulé, algarve, portugal;16
+8392;loulÃ©, algarve, portugal;16
 8393;san juan, puerto rico, usa;36
 8394;piacenza, emilia romagna, italy;NULL
 8395;hacienda heights, california, usa;18
@@ -8400,7 +8400,7 @@ User-ID;Location;Age
 8399;lisbon, lisbon, portugal;19
 8400;koeln, nordrhein-westfalen, germany;31
 8401;fremont, california, usa;NULL
-8402;zaragoza, aragón, spain;31
+8402;zaragoza, aragÃ³n, spain;31
 8403;eustis, florida, usa;NULL
 8404;singapore, alabama, singapore;66
 8405;kiel, schleswig-holstein, germany;31
@@ -8408,7 +8408,7 @@ User-ID;Location;Age
 8407;ottawa, ontario, canada;NULL
 8408;barcelona, catalunya, spain;NULL
 8409;torino, piemonte, italy;23
-8410;são paulo, são paulo, brazil;35
+8410;sÃ£o paulo, sÃ£o paulo, brazil;35
 8411;villacedre, leon, spain;38
 8412;singapore, n/a, singapore;NULL
 8413;oeiras, lisboa, portugal;21
@@ -8418,14 +8418,14 @@ User-ID;Location;Age
 8417;strasbourg, n/a, france;NULL
 8418;olivos, buenos aires, argentina;25
 8419;fribourg, fribourg, switzerland;21
-8420;karlstad, värmland, sweden;NULL
+8420;karlstad, vÃ¤rmland, sweden;NULL
 8421;madrid, madrid, spain;36
 8422;madrid, madrid, spain;29
 8423;lisboa, n/a, portugal;NULL
 8424;torrelodones, maine, spain;30
 8425;lisbon, lisbon, portugal;36
 8426;lebanon, missouri, usa;21
-8427;asunción, paraguay, fernando de la mora;NULL
+8427;asunciÃ³n, paraguay, fernando de la mora;NULL
 8428;euless, texas, usa;19
 8429;medicine hat, alberta, italy;42
 8430;"ratnagiri, \n/a\"", india""";18
@@ -8453,7 +8453,7 @@ User-ID;Location;Age
 8452;windhoek, khomas region, namibia;42
 8453;berkeley, california, usa;47
 8454;auburndale, massachusetts, usa;NULL
-8455;santoña, cantabria, spain;40
+8455;santoÃ±a, cantabria, spain;40
 8456;milano, lombardia, italy;28
 8457;katy, texas, usa;NULL
 8458;milano, lombardia, italy;230
@@ -8464,19 +8464,19 @@ User-ID;Location;Age
 8463;mudgeeraba, queensland, australia;34
 8464;guadalajara, jalisco, mexico;NULL
 8465;madrid, maine, spain;38
-8466;portimão, algarve, portugal;NULL
+8466;portimÃ£o, algarve, portugal;NULL
 8467;tegucigalpa, yukon territory, honduras;27
 8468;st. louis, missouri, usa;NULL
 8469;moreno valley, california, usa;NULL
 8470;paris-madrid, paris-madrid, france;27
 8471;gijon, asturias, spain;NULL
-8472;bogotá, cundinamarca, colombia;22
+8472;bogotÃ¡, cundinamarca, colombia;22
 8473;edmonton, alberta, canada;22
 8474;split, n/a, croatia;19
 8475;palmerston north, manawatu, new zealand;36
 8476;glens falls, new york, usa;NULL
 8477;xsed, n/a, malaysia;36
-8478;setúbal, n/a, portugal;32
+8478;setÃºbal, n/a, portugal;32
 8479;kissimmee, florida, usa;31
 8480;coria del rio, seville, spain;24
 8481;mendoza, mendoza, argentina;32
@@ -8508,7 +8508,7 @@ User-ID;Location;Age
 8507;taoyuan hsien, n/a, taiwan;NULL
 8508;boston, massachusetts, usa;54
 8509;okemos, michigan, usa;NULL
-8510;covilhã, rhode island, portugal;29
+8510;covilhÃ£, rhode island, portugal;29
 8511;lewistown, pennsylvania, usa;NULL
 8512;barcelona, catalunya, spain;43
 8513;leiria, leiria, portugal;38
@@ -8527,7 +8527,7 @@ User-ID;Location;Age
 8526;swords, dublin, ireland;56
 8527;donegal, n/a, ireland;NULL
 8528;hamilton, ontario, canada;36
-8529;logroño, la rioja, spain;NULL
+8529;logroÃ±o, la rioja, spain;NULL
 8530;minneapolis, minnesota, usa;16
 8531;oviedo, asturias,;42
 8532;magdeburg, sachsen-anhalt, germany;19
@@ -8547,7 +8547,7 @@ User-ID;Location;Age
 8546;cochin, kerala, india;69
 8547;gaborone, n/a, botswana;29
 8548;london, england, united kingdom;28
-8549;södertälje, n/a, sweden;NULL
+8549;sÃ¶dertÃ¤lje, n/a, sweden;NULL
 8550;palm springs, california, usa;0
 8551;detroit, michigan, usa;31
 8552;neuhaus, n/a, austria;33
@@ -8567,7 +8567,7 @@ User-ID;Location;Age
 8566;madrid, n/a, spain;31
 8567;poland, ohio, usa;19
 8568;auckland, auckland, new zealand;NULL
-8569;alcobaça, alcobaça, portugal;26
+8569;alcobaÃ§a, alcobaÃ§a, portugal;26
 8570;rochester, new york, usa;23
 8571;woodside, new york, usa;29
 8572;chennai, tamilnadu, india;NULL
@@ -8606,9 +8606,9 @@ User-ID;Location;Age
 8605;oberlin, ohio, usa;NULL
 8606;wallisellen, zuerich, switzerland;21
 8607;santiago, santiago, chile;21
-8608;parañaque, metro manila, philippines;32
+8608;paraÃ±aque, metro manila, philippines;32
 8609;london, england, united kingdom;29
-8610;l`arboç, tarragona, spain;19
+8610;l`arboÃ§, tarragona, spain;19
 8611;"lisbon, \n/a\"", portugal""";37
 8612;orange, california, usa;35
 8613;cincinnati, ohio, usa;69
@@ -8624,7 +8624,7 @@ User-ID;Location;Age
 8623;-, -, usa;NULL
 8624;wigan, england, united kingdom;NULL
 8625;sydney, new south wales, australia;14
-8626;kristianstad, skåne, sweden;20
+8626;kristianstad, skÃ¥ne, sweden;20
 8627;berlin, berlin, germany;NULL
 8628;somersworth, new hampshire, usa;33
 8629;hednesford, n/a, united kingdom;37
@@ -8649,7 +8649,7 @@ User-ID;Location;Age
 8648;split, alabama, croatia;NULL
 8649;giannitsa, n/a, greece;26
 8650;dallas, tennessee, usa;22
-8651;nürnberg, bayern, germany;55
+8651;nÃ¼rnberg, bayern, germany;55
 8652;pembroke pines, florida, usa;16
 8653;madrid, new mexico, spain;19
 8654;quebec, quebec, canada;NULL
@@ -8684,7 +8684,7 @@ User-ID;Location;Age
 8683;twain harte, ,;NULL
 8684;murcia, murcia, spain;25
 8685;marietta, georgia, usa;32
-8686;st cugat del vallès, catalonia, spain;39
+8686;st cugat del vallÃ¨s, catalonia, spain;39
 8687;bucharest, n/a, romania;28
 8688;conyers, georgia, usa;NULL
 8689;barcelona, n/a, spain;18
@@ -8696,7 +8696,7 @@ User-ID;Location;Age
 8695;redding, california, usa;NULL
 8696;nierstein, rheinland-pfalz, germany;NULL
 8697;newmarket, ontario, canada;NULL
-8698;cádiz, calabria, spain;30
+8698;cÃ¡diz, calabria, spain;30
 8699;zeewolde, flevoland, netherlands;72
 8700;padova, veneto, italy;33
 8701;berlin, n/a, germany;NULL
@@ -8709,7 +8709,7 @@ User-ID;Location;Age
 8708;ocna mures, alba, romania;NULL
 8709;madrid, madrid, spain;52
 8710;christchurch, new zealand, queenspark;46
-8711;29170, málaga, spain;20
+8711;29170, mÃ¡laga, spain;20
 8712;statesboro, georgia, usa;NULL
 8713;gandia, valencia, spain;30
 8714;madrid, madrid, spain;42
@@ -8717,7 +8717,7 @@ User-ID;Location;Age
 8716;none, nova scotia, canada;NULL
 8717;zaragoza, zaragoza, spain;31
 8718;anchorage, alaska, usa;55
-8719;saarbrücken, saarland, germany;30
+8719;saarbrÃ¼cken, saarland, germany;30
 8720;anchorage, alaska, usa;31
 8721;anchorage, alaska, usa;NULL
 8722;weil der stadt, baden-wuerttemberg, germany;47
@@ -8763,7 +8763,7 @@ User-ID;Location;Age
 8762;london, england, united kingdom;22
 8763;stockholm, n/a, sweden;27
 8764;porto, n/a, portugal;NULL
-8765;san bartolomé lanzarote, las palmas, spain;60
+8765;san bartolomÃ© lanzarote, las palmas, spain;60
 8766;winston-salem, north carolina, usa;NULL
 8767;madrid, madrid, spain;38
 8768;reus, tarragona, spain;25
@@ -8779,15 +8779,15 @@ User-ID;Location;Age
 8778;innsbruck, tirol, austria;21
 8779;napoli, campania, italy;NULL
 8780;santa cruz, california, usa;NULL
-8781;são paulo, são paulo, brazil;24
+8781;sÃ£o paulo, sÃ£o paulo, brazil;24
 8782;calgary, alberta, canada;239
-8783;barcelona, españa, spain;28
+8783;barcelona, espaÃ±a, spain;28
 8784;ravenna, emilia romagna, italy;NULL
 8785;garland, texas, usa;69
 8786;smithers, british columbia, canada;NULL
 8787;winfield, missouri, usa;NULL
 8788;huelva, andalucia, spain;37
-8789;umeå, västerbotten, sweden;NULL
+8789;umeÃ¥, vÃ¤sterbotten, sweden;NULL
 8790;simmelsdorf, bayern, germany;NULL
 8791;milano, milano, italy;31
 8792;bellingham, washington, usa;22
@@ -8822,7 +8822,7 @@ User-ID;Location;Age
 8821;sleepy eye, minnesota, usa;35
 8822;stoke-on-trent, staffordshire, united kingdom;27
 8823;greenville, south carolina, usa;49
-8824;zweibrücken, rheinland-pfalz, germany;24
+8824;zweibrÃ¼cken, rheinland-pfalz, germany;24
 8825;olten, basel, switzerland;NULL
 8826;san giovanni rotondo, puglia, italy;52
 8827;atlanta, georgia, usa;48
@@ -8881,7 +8881,7 @@ User-ID;Location;Age
 8880;roma, lazio, italy;37
 8881;madrid, madrid, spain;21
 8882;rome, lazio, italy;23
-8883;lüdinghausen, nordrhein-westfalen, germany;NULL
+8883;lÃ¼dinghausen, nordrhein-westfalen, germany;NULL
 8884;nuernberg, bayern, germany;46
 8885;iasi, moldova, romania;31
 8886;la verne, ca, usa;59
@@ -8890,11 +8890,11 @@ User-ID;Location;Age
 8889;glendale, california, usa;35
 8890;paris, ile-de-france, france;47
 8891;emporia, kansas, usa;27
-8892;rubí, barcelona,;40
+8892;rubÃ­, barcelona,;40
 8893;new york, new york, usa;NULL
-8894;backnang, baden-würtemberg, germany;28
+8894;backnang, baden-wÃ¼rtemberg, germany;28
 8895;apia, n/a, samoa;29
-8896;são paulo, são paulo, brazil;1
+8896;sÃ£o paulo, sÃ£o paulo, brazil;1
 8897;southampton, england, united kingdom;31
 8898;santiago, rm, chile;33
 8899;jogjakarta, jogjakarta, indonesia;NULL
@@ -8905,7 +8905,7 @@ User-ID;Location;Age
 8904;manteca, california, usa;NULL
 8905;den haag, zuid-holland, netherlands;NULL
 8906;frankfurt, hessen, germany;44
-8907;stuttgart, baden-württemberg, germany;NULL
+8907;stuttgart, baden-wÃ¼rttemberg, germany;NULL
 8908;hamburg, hamburg, germany;NULL
 8909;marlborough, england, united kingdom;31
 8910;frankfurt, piemonte, germany;NULL
@@ -8920,7 +8920,7 @@ User-ID;Location;Age
 8919;roma, lazio, italy;NULL
 8920;san diego, california, usa;NULL
 8921;udine, friuli venezia giulia, italy;NULL
-8922;düsseldorf, nordrhein-westfalen, germany;26
+8922;dÃ¼sseldorf, nordrhein-westfalen, germany;26
 8923;washington, dc, usa;NULL
 8924;glen burnie, maryland, usa;62
 8925;belleville, michigan, usa;26
@@ -8996,7 +8996,7 @@ User-ID;Location;Age
 8995;merlo, buenos aires, argentina;28
 8996;braga, minho-braga, portugal;NULL
 8997;berlin, berlin,;33
-8998;osasco, são paulo, brazil;34
+8998;osasco, sÃ£o paulo, brazil;34
 8999;aveiro, aveiro, portugal;34
 9000;mandello lario, italy, italy;19
 9001;praga, praga1, czech republic;NULL
@@ -9008,11 +9008,11 @@ User-ID;Location;Age
 9007;pennington, new jersey, usa;24
 9008;frankfurt am main, hessen, germany;35
 9009;lisboa, lisboa, portugal;29
-9010;loulé, rheinland-pfalz, portugal;21
+9010;loulÃ©, rheinland-pfalz, portugal;21
 9011;barcelona, catalunya, spain;25
 9012;milano, lombardia, italy;20
 9013;genova, liguria, italy;34
-9014;lübeck, schleswig-holstein, germany;NULL
+9014;lÃ¼beck, schleswig-holstein, germany;NULL
 9015;carmagnola, piemonte, italy;56
 9016;porto, vila nova de gaia, portugal;28
 9017;santa maria feira, arkansas, portugal;29
@@ -9023,18 +9023,18 @@ User-ID;Location;Age
 9022;?alec, n, slovenia;NULL
 9023;tucson, arizona, usa;33
 9024;lisboa, basilicata, portugal;NULL
-9025;fortaleza, ceará, brazil;26
+9025;fortaleza, cearÃ¡, brazil;26
 9026;cerreto gudi, toscana, italy;NULL
 9027;miami, florida, usa;33
 9028;cordoba, n/a, spain;54
-9029;gavà, barcelona, spain;NULL
+9029;gavÃ , barcelona, spain;NULL
 9030;lardero, la rioja, spain;39
 9031;zaragoza, aragon, spain;25
-9032;verviers, liège, belgium;NULL
+9032;verviers, liÃ¨ge, belgium;NULL
 9033;lake echo, nova scotia, canada;43
 9034;santiago, region metropolitana, chile;NULL
-9035;coruña, la coruña, spain;16
-9036;fürth, bayern, germany;17
+9035;coruÃ±a, la coruÃ±a, spain;16
+9036;fÃ¼rth, bayern, germany;17
 9037;asjf, minho, portugal;19
 9038;jonesboro, arkansas, usa;NULL
 9039;athens, georgia, usa;NULL
@@ -9080,10 +9080,10 @@ User-ID;Location;Age
 9079;fredericton, new brunswick, canada;NULL
 9080;campinas, sao paulo, brazil;20
 9081;palmerston north, manawatu, new zealand;22
-9082;curitiba, paraná, brazil;21
+9082;curitiba, paranÃ¡, brazil;21
 9083;mercer island, washington, usa;NULL
 9084;lemont, illinois, usa;25
-9085;león, león, spain;26
+9085;leÃ³n, leÃ³n, spain;26
 9086;no, ohio, usa;NULL
 9087;nowhere, england, united kingdom;NULL
 9088;sheffield, england, united kingdom;33
@@ -9117,7 +9117,7 @@ User-ID;Location;Age
 9116;milan, lombardia, italy;NULL
 9117;new york city, new york, usa;1
 9118;albany, new york, usa;20
-9119;münchen, bayern, germany;30
+9119;mÃ¼nchen, bayern, germany;30
 9120;berlin, n/a, germany;NULL
 9121;altenkirchen, rheinland-pfalz, germany;NULL
 9122;piacnza, emilia romagna, italy;25
@@ -9156,12 +9156,12 @@ User-ID;Location;Age
 9155;chelsea, michigan, usa;NULL
 9156;pavia, lombardia, italy;NULL
 9157;rome, n/a, italy;NULL
-9158;gijón, asturias, spain;21
+9158;gijÃ³n, asturias, spain;21
 9159;hamilton, ontario, canada;NULL
 9160;winslow, maine, usa;NULL
 9161;cudahy, california, usa;15
 9162;birodidjan, jewish autonomic oblast, russia;21
-9163;zürich, zürich, switzerland;NULL
+9163;zÃ¼rich, zÃ¼rich, switzerland;NULL
 9164;grande prairie, alberta, canada;25
 9165;london, england, united kingdom;NULL
 9166;warsaw, mazowsze, poland;40
@@ -9193,7 +9193,7 @@ User-ID;Location;Age
 9192;horseheads, new york, usa;19
 9193;toronto, ontario, canada;26
 9194;ferrara, emilia romagna, italy;NULL
-9195;barcelona, cataluña, spain;20
+9195;barcelona, cataluÃ±a, spain;20
 9196;machynlleth, wales, united kingdom;43
 9197;st. louis park, minnesota, usa;NULL
 9198;portsmouth, england, united kingdom;55
@@ -9202,7 +9202,7 @@ User-ID;Location;Age
 9201;galanta, n/a, slovakia;16
 9202;london, england, united kingdom;NULL
 9203;great bend, kansas, usa;69
-9204;marchtrenk, oberösterreich, austria;NULL
+9204;marchtrenk, oberÃ¶sterreich, austria;NULL
 9205;viganello, ticino, switzerland;18
 9206;tashkent, n/a, uzbekistan;NULL
 9207;wirral, england, united kingdom;22
@@ -9218,7 +9218,7 @@ User-ID;Location;Age
 9217;london, england, united kingdom;43
 9218;reading, england, united kingdom;NULL
 9219;royal oak, michigan, usa;NULL
-9220;leinì, torino, italy;NULL
+9220;leinÃ¬, torino, italy;NULL
 9221;boise, idaho, usa;49
 9222;berlin, berlin, germany;32
 9223;honolulu, hawaii, usa;46
@@ -9242,7 +9242,7 @@ User-ID;Location;Age
 9241;manchester, england, united kingdom;32
 9242;glasgow, scotland, united kingdom;20
 9243;manchester, manchester, united kingdom;NULL
-9244;griesstätt, bayern, germany;NULL
+9244;griesstÃ¤tt, bayern, germany;NULL
 9245;raleigh, north carolina, usa;30
 9246;st. paul, minnesota, usa;40
 9247;mt. wolf, pennsylvania, usa;35
@@ -9309,7 +9309,7 @@ User-ID;Location;Age
 9308;livingston, new jersey, usa;19
 9309;dortmund, nordrhein-westfalen, germany;NULL
 9310;north haven, connecticut, usa;69
-9311;"&#321;ód&#378;, lodzkie, poland";17
+9311;"&#321;Ã³d&#378;, lodzkie, poland";17
 9312;gummersbach, gummersbach, germany;NULL
 9313;lisboa, n/a, portugal;NULL
 9314;london, england, united kingdom;23
@@ -9332,7 +9332,7 @@ User-ID;Location;Age
 9331;zaragoza, zaragoza, spain;24
 9332;padova, veneto, italy;23
 9333;san jose, san jose, costa rica;27
-9334;barcelona, barcelona, españa;NULL
+9334;barcelona, barcelona, espaÃ±a;NULL
 9335;san diego, california, usa;54
 9336;london, england, united kingdom;NULL
 9337;bilbao, vizcaya, spain;43
@@ -9340,13 +9340,13 @@ User-ID;Location;Age
 9339;lindenhurst, illinois, usa;NULL
 9340;oak park, illinois, usa;35
 9341;hamburg, ,;33
-9342;århus, jylland, denmark;NULL
+9342;Ã¥rhus, jylland, denmark;NULL
 9343;fredericton, new brunswick, canada;NULL
 9344;kappeln, schleswig-holstein, germany;NULL
 9345;betekom, brabant, belgium;NULL
 9346;katoomba, new south wales, australia;30
 9347;nantes, loire atlantique, france;25
-9348;a coruña, galiza, spain;18
+9348;a coruÃ±a, galiza, spain;18
 9349;milan, ,;NULL
 9350;sugarland, texas, usa;NULL
 9351;new york, new york, usa;16
@@ -9380,7 +9380,7 @@ User-ID;Location;Age
 9379;appleton, wisconsin, usa;21
 9380;colcord, oklahoma, usa;43
 9381;bagshot, surrey, united kingdom;NULL
-9382;düsseldorf, nordrhein-westfalen, germany;NULL
+9382;dÃ¼sseldorf, nordrhein-westfalen, germany;NULL
 9383;st. petersburg, florida, usa;43
 9384;birmingham, england, united kingdom;21
 9385;scottsburg, indiana, usa;28
@@ -9395,7 +9395,7 @@ User-ID;Location;Age
 9394;alameda, california, usa;36
 9395;birmingham, england, united kingdom;18
 9396;, ,;44
-9397;sevilla, andalucía, spain;44
+9397;sevilla, andalucÃ­a, spain;44
 9398;rennes, bretagne, france;31
 9399;turella, new york, australia;27
 9400;alston moor, england, united kingdom;47
@@ -9481,7 +9481,7 @@ User-ID;Location;Age
 9480;barendorf, niedersachsen, germany;NULL
 9481;windsor, ontario, canada;17
 9482;gloversville, new york, usa;34
-9483;münchen, bayern, georgia;25
+9483;mÃ¼nchen, bayern, georgia;25
 9484;st. catharines, ontario, canada;NULL
 9485;thomasville, georgia, usa;26
 9486;east windsor, new jersey, usa;46
@@ -9537,7 +9537,7 @@ User-ID;Location;Age
 9536;glasgow, scotland, united kingdom;NULL
 9537;lisboa, lisboa, portugal;NULL
 9538;bridgetown, west indies, barbados;24
-9539;tàrrega, lleida, spain;35
+9539;tÃ rrega, lleida, spain;35
 9540;peoria, illinois, usa;NULL
 9541;st. louis, missouri, usa;27
 9542;susaki-shi, kochi-ken, japan;28
@@ -9571,7 +9571,7 @@ User-ID;Location;Age
 9570;rio de janeiro, rio de janeiro, brazil;51
 9571;reinbek, schleswig-holstein, germany;27
 9572;liberty, texas, usa;NULL
-9573;são josé dos campos, são paulo, brazil;47
+9573;sÃ£o josÃ© dos campos, sÃ£o paulo, brazil;47
 9574;lansing, michigan, usa;33
 9575;brisbane, queensland, australia;26
 9576;southampton, pennsylvania, usa;NULL
@@ -9717,7 +9717,7 @@ User-ID;Location;Age
 9716;westwood, massachusetts, usa;19
 9717;rockford, illinois, usa;16
 9718;brooklyn, new york, usa;35
-9719;schönaich, baden-württemberg, germany;NULL
+9719;schÃ¶naich, baden-wÃ¼rttemberg, germany;NULL
 9720;perth, western australia, australia;NULL
 9721;san dimas, california, usa;47
 9722;maynard, massachusetts, usa;NULL
@@ -9727,7 +9727,7 @@ User-ID;Location;Age
 9726;huntsville, missouri, usa;56
 9727;washington, dc, usa;35
 9728;oak cliff, ,;NULL
-9729;zürich, yukon territory, switzerland;NULL
+9729;zÃ¼rich, yukon territory, switzerland;NULL
 9730;verdon, nebraska, usa;19
 9731;boonville, missouri, usa;NULL
 9732;san diego, california, usa;NULL
@@ -9819,7 +9819,7 @@ User-ID;Location;Age
 9818;houston, texas, usa;52
 9819;tampa, florida, usa;NULL
 9820;waregem, westvlaanderen, belgium;21
-9821;umeå, västerbotten, sweden;NULL
+9821;umeÃ¥, vÃ¤sterbotten, sweden;NULL
 9822;madrid, ohio, spain;43
 9823;selangor, n/a, malaysia;27
 9824;oeiras, lisboa, portugal;17
@@ -9839,7 +9839,7 @@ User-ID;Location;Age
 9838;howell, new jersey, usa;42
 9839;alicante, pais valenciano, spain;51
 9840;nil, nebraska, trinidad;NULL
-9841;santiago, región metropolitana, chile;23
+9841;santiago, regiÃ³n metropolitana, chile;23
 9842;cap fed, buenos aires, argentina;NULL
 9843;frankfurt, hessen, germany;44
 9844;marysville, washington, usa;18
